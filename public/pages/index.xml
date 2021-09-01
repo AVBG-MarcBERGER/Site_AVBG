@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on AVBG-Informatique</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on AVBG-Informatique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/pages/mesengagements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/mesengagements/</guid>
+      <description>&lt;h2 id=&#34;mes-engagements&#34;&gt;Mes engagements&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pages/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/presentation/</guid>
+      <description>&lt;h2 id=&#34;qui-suis-je-&#34;&gt;Qui suis-je ?&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mes tarifs et frais de déplacements</title>
+      <link>/pages/mestarifs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/mestarifs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

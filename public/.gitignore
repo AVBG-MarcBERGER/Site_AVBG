@@ -1,0 +1,6 @@
+### Hugo ###
+/public/
+# executables 
+hugo.exe
+hugo.drawin
+hugo.linux
