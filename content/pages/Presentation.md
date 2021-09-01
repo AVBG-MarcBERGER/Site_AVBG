@@ -18,7 +18,7 @@ ShowdATE: false
 ## Qui suis-je ?
 <!--more-->
 
-{{< image classes=" right  fig-25" src="images/Marc_BERGER.jpg" thumbnail="/images/Marc_BERGER_c015622.jpg"  >}}
+{{< image classes=" right  fig-25" src="images/Moi.jpg" thumbnail="/images/Moi.jpg"  >}}
 
 Je m'appelle Marc BERGER.
 
