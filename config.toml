@@ -47,7 +47,7 @@ canonifyurls = true
 [author]
   name = "AVBG-Informatique [Marc BERGER]"
   bio = "Assistant informatique aux particuliers"
-  job = "AVBG-Marc-BERGER@orange.fr"
+  job = "AVBG.Marc.BERGER @Gmail.com"
   location = "Sartrouville France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = ""
@@ -67,7 +67,7 @@ canonifyurls = true
   identifier = "acceuil"
   name = "Acceuil"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/"
+  url = "/acceuil"
 [[menu.main]]
   weight = 2
   identifier = "presentation"
@@ -104,6 +104,12 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
   url = "/#about"
+  [[menu.main]]
+  weight = 8
+  identifier = "maintenance"
+  name = "Maintenance"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
+  url = "/maintenance/InfoMaintenance"
 
 # -------------
 # Customization
@@ -197,7 +203,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  #  favicon = "/favicon.png"
+  favicon = "AVBG_02_110x110.jpg"
 
   # ------------------
   # External resources

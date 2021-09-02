@@ -2,13 +2,8 @@
 title: ""
 thumbnailImagePosition: left
 thumbnailImage: /images/Logo_CESU_300.png
-thumbnail-width: 500px
-thumbnail-height: 500px
-#coverImage: /images/AVBG_Img.jpg
-#date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
+thumbnail-width: 400px
+thumbnail-height: 400px
 tags:
 - tags
 showTags: false
@@ -16,11 +11,11 @@ showPagination: false
 showSocial: false
 ShowdATE: false
 Showcategories: false
-
 ---
 
 ### Le CESU (Chèque emploi service universel)
 <!--more-->
+
 {{< image classes=" bottom fig-50" src="/images/Cesu_01.png" thumbnail="/images/Cesu_01.png">}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg">}}

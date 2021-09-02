@@ -1,7 +1,7 @@
 ---
 title: ""
 thumbnailImagePosition: left
-thumbnailImage: /images/AVBG_Img.jpg
+thumbnailImage: /images/AVBG_02_110x110.jpg
 ##date: 2021-08-16
 #categories:
 #- tranquilpeak

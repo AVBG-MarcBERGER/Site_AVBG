@@ -2,11 +2,8 @@
 title: ""
 thumbnailImagePosition: left 
 thumbnailImage: /images/VousConseiller_300.png
-#coverImage: /images/AVBG_Img.jpg
-#date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
+thumbnail-width: 150px
+thumbnail-height: 150px
 tags:
 - tags
 showTags: false
@@ -14,10 +11,12 @@ showPagination: false
 showSocial: false
 ShowdATE: false
 Showcategories: false
+weight: 1
 ---
-### je peux vous conseiller dans de nombreux domaines
-<!--more-->
 
+### je peux vous conseiller dans de nombreux domaines
+
+<!--more-->
 
 {{< image classes=" left fig-50" src="/images/pcMarcNew-2.png" thumbnail="/images/pcMarcNew-2.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)

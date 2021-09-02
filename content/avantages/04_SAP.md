@@ -4,11 +4,6 @@ thumbnailImagePosition: left
 thumbnailImage: /images/Logo_SAP_300.png
 thumbnail-width: 400px
 thumbnail-height: 400px
-#coverImage: /images/AVBG_Img.jpg
-#date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
 tags:
 - tags
 showTags: false

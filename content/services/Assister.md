@@ -2,13 +2,8 @@
 title: ""
 thumbnailImagePosition: left
 thumbnailImage: /images/VousAssister_300.png
-thumbnail-width: 500px
-thumbnail-height: 500px
-#coverImage: /images/AVBG_Img.jpg
-#date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
+thumbnail-width: 150px
+thumbnail-height: 150px
 tags:
 - tags
 showTags: false
@@ -16,9 +11,11 @@ showPagination: false
 showSocial: false
 ShowdATE: false
 Showcategories: false
+weight: 3
 ---
 
 ### je peux vous assister pour de nombreues tâches
+
 <!--more-->
 
 {{< image classes=" bottom fig-50" src="/images/pcMarcNew-2.png" thumbnail="/images/pcMarcNew-2.png"  >}}

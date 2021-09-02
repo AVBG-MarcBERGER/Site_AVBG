@@ -1,18 +1,19 @@
 ---
 title: ""
+metadescription: "essai page acceuil"
 thumbnailImagePosition: center
-thumbnailImage: /images/Marc_BERGER_c015622.jpg
-##date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
+thumbnailImage: /images/AVBG_02_110x110.jpg
 tags:
 - tags
 showTags: false
 showPagination: false
 showSocial: false
 ShowdATE: false
-
+chapter: false
+showMeta: false
+showActions: false
+coverSize: full
+summary: "Test sommaire"
 ---
 {{< image classes=" left fig-75" src="/images/pcMarc-3.png" thumbnail="/images/pcMarc-3.png"  >}}
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}

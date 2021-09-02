@@ -1,7 +1,7 @@
 ---
 title: ""
 thumbnailImagePosition: left
-thumbnailImage: /images/AVBG_Img.jpg
+thumbnailImage: /images/AVBG_02_110x110.jpg
 ##date: 2021-08-16
 #categories:
 #- tranquilpeak
@@ -19,6 +19,7 @@ ShowdATE: false
 <!--more-->
 
 {{< image classes=" fig-50" src="/images/engagements.jpg" thumbnail="/images/engagements.jpg"  >}}
+[![Retour arrière](/images/logo-retour-arriere_50.png)](../../)
 {{< image classes="clear fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
 __Quand vous ferrez appel à mes services, je m'engage à__

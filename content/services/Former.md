@@ -1,14 +1,9 @@
 ---
 title: ""
 thumbnailImagePosition: left
-thumbnail-width: 5px
-thumbnail-height: 5px
+thumbnail-width: 150px
+thumbnail-height: 150px
 thumbnailImage: /images/VousFormer_300.png
-#coverImage: /images/AVBG_Img.jpg
-#date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
 tags:
 - tags
 showTags: false
@@ -16,9 +11,11 @@ showPagination: false
 showSocial: false
 ShowdATE: false
 Showcategories: false
+weight: 4
 ---
 
 ### je peux vous aprendre et vous former à l'informatique
+
 <!--more-->
 
 {{< image classes=" bottom fig-50" src="/images/pcMarcNew-2.png" thumbnail="/images/pcMarcNew-2.png"  >}}

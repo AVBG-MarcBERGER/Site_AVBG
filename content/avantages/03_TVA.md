@@ -4,11 +4,6 @@ thumbnailImagePosition: left
 thumbnailImage: /images/Logo_TVA_300.png
 thumbnail-width: 400px
 thumbnail-height: 400px
-#coverImage: /images/AVBG_Img.jpg
-#date: 2021-08-16
-#categories:
-#- tranquilpeak
-#- features
 tags:
 - tags
 showTags: false
@@ -20,6 +15,7 @@ Showcategories: false
 
 ### Franchise en base de TVA
 <!--more-->
+
 {{< image classes=" bottom fig-50" src="/images/TVA.jpg" thumbnail="/images/TVA.jpg"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
