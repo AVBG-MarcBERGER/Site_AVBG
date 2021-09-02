@@ -104,12 +104,7 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
   url = "/#about"
-  [[menu.main]]
-  weight = 8
-  identifier = "maintenance"
-  name = "Maintenance"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
-  url = "/maintenance/InfoMaintenance"
+
 
 # -------------
 # Customization
