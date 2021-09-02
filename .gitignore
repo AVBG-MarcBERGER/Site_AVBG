@@ -1,2 +1,32 @@
-themes/
+#.firebase/
+#.git/
+#public/
+#resources/
+#static/
+#archetypes/
+#content/avantages/
+#content/bienvenue/
+#content/maintenance/
+#content/pages/
+#content/services/
+#data/
+#layouts/
+#travail/
+#themes/
+
+# select maintenance
+####################
+#public/
+#content/avantages/
+#content/bienvenue/
+#content/pages/
+#content/services/
+#travail/
+#themes/
+
+# select Production
+####################
+content/maintenance/
+public/
 travail/
+themes/

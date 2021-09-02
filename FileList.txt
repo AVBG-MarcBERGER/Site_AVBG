@@ -1,0 +1,1845 @@
+﻿FreeCommander - Liste des dossiers 9/2/2021 6:35:28 
+
+[dm]	[attr]	[s_bytes]	[ne]
+        C:\Users\marcb\siteTest_02
+2021-09-01 18-46-12	A-------	51 	.firebaserc
+2021-08-25 16-54-03	A-------	17 	.gitignore
+2021-09-02 12-18-13	A-------	45 	.gitignore.sublime-project
+2021-09-02 15-36-45	A-------	13 994 	config.toml
+2021-09-02 18-34-04	A-------	377 	FileList.txt
+2021-09-01 18-46-12	A-------	134 	firebase.json
+2021-08-25 16-43-12	A-------	13 	README.md
+2021-09-01 16-52-56	A-------	802 	theme.toml
+----------------------------------------------------------------------------------------------------
+Dossier: "siteTest_02"          Nombre de fichiers: 8          Taille des fichiers: 15 433 
+
+        C:\Users\marcb\siteTest_02\.firebase
+2021-09-02 18-30-09	A-------	7 672 	hosting.cHVibGlj.cache
+----------------------------------------------------------------------------------------------------
+Dossier: ".firebase"          Nombre de fichiers: 1          Taille des fichiers: 7 672 
+
+        C:\Users\marcb\siteTest_02\.git
+2021-09-02 18-29-27	A-------	39 	COMMIT_EDITMSG
+2021-09-01 17-06-37	A-------	364 	config
+2021-08-25 14-55-51	A-------	73 	description
+2021-09-01 17-06-37	A-------	21 	HEAD
+2021-09-02 18-29-27	A-------	5 792 	index
+2021-08-25 16-43-12	A-------	41 	ORIG_HEAD
+----------------------------------------------------------------------------------------------------
+Dossier: ".git"          Nombre de fichiers: 6          Taille des fichiers: 6 330 
+
+        C:\Users\marcb\siteTest_02\.git\hooks
+2021-08-25 14-55-51	A-------	478 	applypatch-msg.sample
+2021-08-25 14-55-51	A-------	896 	commit-msg.sample
+2021-08-25 14-55-51	A-------	4 655 	fsmonitor-watchman.sample
+2021-08-25 14-55-51	A-------	189 	post-update.sample
+2021-08-25 14-55-51	A-------	424 	pre-applypatch.sample
+2021-08-25 14-55-51	A-------	1 643 	pre-commit.sample
+2021-08-25 14-55-51	A-------	416 	pre-merge-commit.sample
+2021-08-25 14-55-51	A-------	1 374 	pre-push.sample
+2021-08-25 14-55-51	A-------	4 898 	pre-rebase.sample
+2021-08-25 14-55-51	A-------	544 	pre-receive.sample
+2021-08-25 14-55-51	A-------	1 492 	prepare-commit-msg.sample
+2021-08-25 14-55-51	A-------	2 783 	push-to-checkout.sample
+2021-08-25 14-55-51	A-------	3 650 	update.sample
+----------------------------------------------------------------------------------------------------
+Dossier: "hooks"          Nombre de fichiers: 13          Taille des fichiers: 23 442 
+
+        C:\Users\marcb\siteTest_02\.git\info
+2021-08-25 14-55-51	A-------	240 	exclude
+----------------------------------------------------------------------------------------------------
+Dossier: "info"          Nombre de fichiers: 1          Taille des fichiers: 240 
+
+        C:\Users\marcb\siteTest_02\.git\logs
+2021-09-02 18-29-27	A-------	4 578 	HEAD
+----------------------------------------------------------------------------------------------------
+Dossier: "logs"          Nombre de fichiers: 1          Taille des fichiers: 4 578 
+
+        C:\Users\marcb\siteTest_02\.git\logs\refs
+        C:\Users\marcb\siteTest_02\.git\logs\refs\heads
+2021-09-02 18-29-27	A-------	2 503 	main
+----------------------------------------------------------------------------------------------------
+Dossier: "heads"          Nombre de fichiers: 1          Taille des fichiers: 2 503 
+
+        C:\Users\marcb\siteTest_02\.git\logs\refs\remotes
+        C:\Users\marcb\siteTest_02\.git\logs\refs\remotes\origin
+2021-08-25 16-30-32	A-------	160 	dev
+2021-09-01 19-02-45	A-------	1 274 	main
+----------------------------------------------------------------------------------------------------
+Dossier: "origin"          Nombre de fichiers: 2          Taille des fichiers: 1 434 
+
+        C:\Users\marcb\siteTest_02\.git\objects
+        C:\Users\marcb\siteTest_02\.git\objects\00
+2021-09-01 17-36-32	A---R---	5 569 	d29819c3cf66825b8479f70427ae16c6d28961
+2021-08-25 16-27-53	A---R---	88 	e77bd79be44872c0b29256b03799c2fb00c10d
+----------------------------------------------------------------------------------------------------
+Dossier: "00"          Nombre de fichiers: 2          Taille des fichiers: 5 657 
+
+        C:\Users\marcb\siteTest_02\.git\objects\01
+2021-09-01 16-54-49	A---R---	6 064 	ace7958ac24669518338be3e5b6c6a61398271
+2021-09-01 16-54-49	A---R---	33 455 	e49f5bfa220ef9dfd8b30712a2a625a68b535f
+----------------------------------------------------------------------------------------------------
+Dossier: "01"          Nombre de fichiers: 2          Taille des fichiers: 39 519 
+
+        C:\Users\marcb\siteTest_02\.git\objects\02
+2021-08-25 16-27-53	A---R---	4 999 	1bbde8633497522965555e4d546e9a26c354b3
+2021-08-25 16-29-29	A---R---	129 	216b065049947b23df77a88f44ac6d966a4e55
+2021-09-01 18-40-48	A---R---	3 664 517 	c9b56ead0ae46f00d999058cac2c0868e09162
+----------------------------------------------------------------------------------------------------
+Dossier: "02"          Nombre de fichiers: 3          Taille des fichiers: 3 669 645 
+
+        C:\Users\marcb\siteTest_02\.git\objects\03
+2021-09-02 18-29-27	A---R---	174 	206dfa928bc6fecb0384b52c66b2537cc731dc
+2021-09-01 17-36-55	A---R---	80 	d9be46f8f4dcd30f80bca9756110ef3b6dc2aa
+----------------------------------------------------------------------------------------------------
+Dossier: "03"          Nombre de fichiers: 2          Taille des fichiers: 254 
+
+        C:\Users\marcb\siteTest_02\.git\objects\04
+2021-09-01 16-55-13	A---R---	80 	09f00be15273bf4d61981c5527279e1bc53620
+2021-09-01 16-23-58	A---R---	543 	2e2add7d8bda738f8532cec6c70b3458d8b4e7
+2021-09-01 16-54-49	A---R---	4 297 	5f17ffa50d6a32ba27851aef148e48b7a9ca7c
+----------------------------------------------------------------------------------------------------
+Dossier: "04"          Nombre de fichiers: 3          Taille des fichiers: 4 920 
+
+        C:\Users\marcb\siteTest_02\.git\objects\05
+2021-09-01 16-54-49	A---R---	1 405 	1f71ce91376b10b65e52bf0c4c20296b3a1ace
+2021-09-02 18-29-27	A---R---	59 	429348016c7a22be462e4dd8792433d027dc3e
+2021-09-01 16-54-49	A---R---	61 	713c90dde2d902bd2e8707b2dd64bfed6ae713
+2021-09-01 16-55-13	A---R---	55 	aaca67757ed20c33ea87cb126a045ae2c50a1a
+----------------------------------------------------------------------------------------------------
+Dossier: "05"          Nombre de fichiers: 4          Taille des fichiers: 1 580 
+
+        C:\Users\marcb\siteTest_02\.git\objects\06
+2021-09-01 16-23-58	A---R---	32 	0c48e52e6992bd1fd9edce850f18c4b38de445
+2021-09-01 17-36-32	A---R---	5 706 	693c0c7382c1f4f8b7d8581e7ad3562d986cfc
+2021-09-01 17-36-32	A---R---	4 971 	fa76f88350716e9aac369ccddf62b4e7bf4f38
+----------------------------------------------------------------------------------------------------
+Dossier: "06"          Nombre de fichiers: 3          Taille des fichiers: 10 709 
+
+        C:\Users\marcb\siteTest_02\.git\objects\08
+2021-09-01 17-36-55	A---R---	48 	22c7b1e0e2d17d9780744bd349e19b0e6b81eb
+2021-08-25 16-27-55	A---R---	344 014 	880a91659eae1f37b77edd68873a386def6cf5
+----------------------------------------------------------------------------------------------------
+Dossier: "08"          Nombre de fichiers: 2          Taille des fichiers: 344 062 
+
+        C:\Users\marcb\siteTest_02\.git\objects\09
+2021-09-01 16-54-49	A---R---	518 	54e86692fe329de17cd37d3f0e5da986627be3
+----------------------------------------------------------------------------------------------------
+Dossier: "09"          Nombre de fichiers: 1          Taille des fichiers: 518 
+
+        C:\Users\marcb\siteTest_02\.git\objects\0a
+2021-08-25 16-27-55	A---R---	848 	932d22dba270382a58c1f02c14ea75d7d2acef
+2021-09-01 16-55-12	A---R---	55 	ae12e1314a8c17d261cc74fbc682d9a6757bee
+2021-08-25 16-27-54	A---R---	5 684 	fb9e57e2f13e2491bf7d13d0368e333575cc85
+----------------------------------------------------------------------------------------------------
+Dossier: "0a"          Nombre de fichiers: 3          Taille des fichiers: 6 587 
+
+        C:\Users\marcb\siteTest_02\.git\objects\0b
+2021-09-01 17-36-32	A---R---	3 980 	b2cc70ab44719034fef6b61fe88e786e3f6880
+----------------------------------------------------------------------------------------------------
+Dossier: "0b"          Nombre de fichiers: 1          Taille des fichiers: 3 980 
+
+        C:\Users\marcb\siteTest_02\.git\objects\0c
+2021-09-01 16-55-13	A---R---	44 	912eaaf4ee531898ca46c0a2a084d689311ee7
+----------------------------------------------------------------------------------------------------
+Dossier: "0c"          Nombre de fichiers: 1          Taille des fichiers: 44 
+
+        C:\Users\marcb\siteTest_02\.git\objects\0d
+2021-09-01 16-54-49	A---R---	37 099 	96d41613bcff08510ce1db8d7f0161c5953575
+2021-09-01 17-36-32	A---R---	4 279 	eca7c7b7cd34f1a687c80d93d21447f872537c
+----------------------------------------------------------------------------------------------------
+Dossier: "0d"          Nombre de fichiers: 2          Taille des fichiers: 41 378 
+
+        C:\Users\marcb\siteTest_02\.git\objects\0e
+2021-08-25 16-29-29	A---R---	111 	7338626b242e47ac8efa3ada2d6282b2d490d5
+----------------------------------------------------------------------------------------------------
+Dossier: "0e"          Nombre de fichiers: 1          Taille des fichiers: 111 
+
+        C:\Users\marcb\siteTest_02\.git\objects\10
+2021-08-25 16-27-53	A---R---	794 	43d94928a8d0756b952c86948e6c1c48be31ba
+2021-09-01 18-41-19	A---R---	979 	688526643fd57552694a4bfac076186ce3bef7
+----------------------------------------------------------------------------------------------------
+Dossier: "10"          Nombre de fichiers: 2          Taille des fichiers: 1 773 
+
+        C:\Users\marcb\siteTest_02\.git\objects\11
+2021-09-01 17-36-55	A---R---	55 	dc3b37a72e8b61b8b7c0e520b6004302c52e2b
+----------------------------------------------------------------------------------------------------
+Dossier: "11"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\12
+2021-09-01 16-54-49	A---R---	3 864 	a5816ba9b7f0bc312b0ad59e311721a51b3896
+----------------------------------------------------------------------------------------------------
+Dossier: "12"          Nombre de fichiers: 1          Taille des fichiers: 3 864 
+
+        C:\Users\marcb\siteTest_02\.git\objects\13
+2021-09-01 16-23-58	A---R---	123 	a946834b66e632f9d842b0de652356ce40fb53
+2021-09-01 17-36-55	A---R---	472 	a9e73943b248b9942ec30822efe37a5c4b4ebc
+----------------------------------------------------------------------------------------------------
+Dossier: "13"          Nombre de fichiers: 2          Taille des fichiers: 595 
+
+        C:\Users\marcb\siteTest_02\.git\objects\14
+2021-09-02 18-28-27	A---R---	1 030 	862e13f866488b25c9ce1c29634e5f4c07459b
+----------------------------------------------------------------------------------------------------
+Dossier: "14"          Nombre de fichiers: 1          Taille des fichiers: 1 030 
+
+        C:\Users\marcb\siteTest_02\.git\objects\15
+2021-09-01 19-02-26	A---R---	67 	64176afca5171b696466311102210fb1038106
+2021-09-01 16-54-49	A---R---	362 	a7f50ab46fec51b54f8fc6716ded3e31d02009
+----------------------------------------------------------------------------------------------------
+Dossier: "15"          Nombre de fichiers: 2          Taille des fichiers: 429 
+
+        C:\Users\marcb\siteTest_02\.git\objects\16
+2021-09-01 17-36-55	A---R---	174 	3ae4005fcdf055f229db17c3b64683a085f935
+----------------------------------------------------------------------------------------------------
+Dossier: "16"          Nombre de fichiers: 1          Taille des fichiers: 174 
+
+        C:\Users\marcb\siteTest_02\.git\objects\17
+2021-09-01 18-40-48	A---R---	5 994 	beebd4a16a1ad8d2382a366a7984ddbcfc7228
+----------------------------------------------------------------------------------------------------
+Dossier: "17"          Nombre de fichiers: 1          Taille des fichiers: 5 994 
+
+        C:\Users\marcb\siteTest_02\.git\objects\18
+2021-09-01 17-36-32	A---R---	3 567 	b6e2d4fe97301c130ec09aae97efaa704735ff
+2021-08-25 16-27-56	A---R---	547 086 	cb4f0b82781b4021a5a6dabc1aa4aff219d30c
+----------------------------------------------------------------------------------------------------
+Dossier: "18"          Nombre de fichiers: 2          Taille des fichiers: 550 653 
+
+        C:\Users\marcb\siteTest_02\.git\objects\19
+2021-08-25 16-27-55	A---R---	8 046 	7ee0073bb443e44ed2a9867240538a7e39b6e5
+----------------------------------------------------------------------------------------------------
+Dossier: "19"          Nombre de fichiers: 1          Taille des fichiers: 8 046 
+
+        C:\Users\marcb\siteTest_02\.git\objects\1b
+2021-08-25 16-27-53	A---R---	998 	315b1ed1ff5983c839fc748d3379b8867a163f
+2021-09-01 17-20-53	A---R---	473 	daaeb8497273a226057f7e491391de7aa9eeed
+2021-08-25 16-27-55	A---R---	8 663 	eb8fb63b11f8e80eb9f0f592f7486f55307046
+2021-09-02 18-28-27	A---R---	3 683 	f5540d82e4b997909fbc1533a2040d68c6525d
+----------------------------------------------------------------------------------------------------
+Dossier: "1b"          Nombre de fichiers: 4          Taille des fichiers: 13 817 
+
+        C:\Users\marcb\siteTest_02\.git\objects\1c
+2021-09-02 18-28-27	A---R---	754 	afabb0434c79b7e062b25dfcd6091eae10b590
+2021-08-25 16-27-56	A---R---	48 170 	b9ea237a35f420fb4be70032e4f5d6b27873e0
+2021-09-01 16-54-49	A---R---	31 393 	da0588dc7577e1b1d35ad8cc8c5fcd46cb2fa4
+----------------------------------------------------------------------------------------------------
+Dossier: "1c"          Nombre de fichiers: 3          Taille des fichiers: 80 317 
+
+        C:\Users\marcb\siteTest_02\.git\objects\1d
+2021-09-01 17-36-32	A---R---	5 747 	8bc0ca53c10a1eb2b59bd4ef6d128b6beb2980
+----------------------------------------------------------------------------------------------------
+Dossier: "1d"          Nombre de fichiers: 1          Taille des fichiers: 5 747 
+
+        C:\Users\marcb\siteTest_02\.git\objects\1f
+2021-08-25 16-27-57	A---R---	458 985 	28a0670f2eb89f4da424292a7ff5790e8431a3
+2021-09-01 16-54-49	A---R---	5 497 	a74a8707b330b88363a49e4f790ff78f45c871
+----------------------------------------------------------------------------------------------------
+Dossier: "1f"          Nombre de fichiers: 2          Taille des fichiers: 464 482 
+
+        C:\Users\marcb\siteTest_02\.git\objects\20
+2021-08-25 16-27-56	A---R---	111 497 	a243d8c1efbbd6d0b13ba754a2031c55cd50da
+----------------------------------------------------------------------------------------------------
+Dossier: "20"          Nombre de fichiers: 1          Taille des fichiers: 111 497 
+
+        C:\Users\marcb\siteTest_02\.git\objects\24
+2021-09-01 16-55-13	A---R---	43 	0e01e0540a1c1a01c405d964006da8e538b6d6
+2021-09-02 18-28-27	A---R---	58 	db30311b340c8d78001f0fb705810ab77a8c38
+----------------------------------------------------------------------------------------------------
+Dossier: "24"          Nombre de fichiers: 2          Taille des fichiers: 101 
+
+        C:\Users\marcb\siteTest_02\.git\objects\25
+2021-09-01 19-02-26	A---R---	58 	4811b272941ce8e799b0e130c6382c0e811c57
+2021-08-25 16-27-57	A---R---	5 222 	60b2171ad0f27a4173d8f588acf9dadabaec85
+2021-09-02 18-28-27	A---R---	1 057 	7bf50cf56011a05d1f610d271be8a0cfe517ec
+2021-09-01 16-54-49	A---R---	6 028 	93453745ed97e959ff5ab6a683ca0977f3f4ef
+----------------------------------------------------------------------------------------------------
+Dossier: "25"          Nombre de fichiers: 4          Taille des fichiers: 12 365 
+
+        C:\Users\marcb\siteTest_02\.git\objects\26
+2021-09-01 17-36-55	A---R---	114 	e06cc71bbb6e86fd4cc5fd313783d45d851bf5
+2021-08-25 16-27-56	A---R---	41 677 	e0bd6f7a458893630c46820f733ae794d03ec5
+----------------------------------------------------------------------------------------------------
+Dossier: "26"          Nombre de fichiers: 2          Taille des fichiers: 41 791 
+
+        C:\Users\marcb\siteTest_02\.git\objects\28
+2021-08-25 16-27-56	A---R---	619 295 	07826d34eea5a36d08c68bf1913f4c8aee0729
+2021-09-01 16-54-49	A---R---	2 888 	1adf7f47c62ac296df05ecd9080ca7ae277283
+----------------------------------------------------------------------------------------------------
+Dossier: "28"          Nombre de fichiers: 2          Taille des fichiers: 622 183 
+
+        C:\Users\marcb\siteTest_02\.git\objects\2a
+2021-08-25 16-27-55	A---R---	3 425 	f34516718bea7f14082b784eee808018a29ae0
+----------------------------------------------------------------------------------------------------
+Dossier: "2a"          Nombre de fichiers: 1          Taille des fichiers: 3 425 
+
+        C:\Users\marcb\siteTest_02\.git\objects\2b
+2021-09-01 16-55-13	A---R---	55 	813e4426ce3ecfe6e565b0303ac12bb9eb4a30
+----------------------------------------------------------------------------------------------------
+Dossier: "2b"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\2d
+2021-09-01 16-54-49	A---R---	269 536 	5a0e133b2e5d690089aca2478ffbce919eac0f
+----------------------------------------------------------------------------------------------------
+Dossier: "2d"          Nombre de fichiers: 1          Taille des fichiers: 269 536 
+
+        C:\Users\marcb\siteTest_02\.git\objects\2f
+2021-09-01 17-36-55	A---R---	55 	265ba6aa57ee97cef4b39fdaffdff8965e3d5e
+2021-09-01 16-55-13	A---R---	55 	38cae7c7409c879d38ec6aa29df84a6f0a7b94
+2021-08-25 16-27-55	A---R---	37 387 	dc8bf1426f739eda0f2219284f5a0280dca48d
+----------------------------------------------------------------------------------------------------
+Dossier: "2f"          Nombre de fichiers: 3          Taille des fichiers: 37 497 
+
+        C:\Users\marcb\siteTest_02\.git\objects\31
+2021-09-01 16-23-58	A---R---	625 	98aef3c79e60e78406cb7be1136cac8f0f94da
+2021-09-01 16-23-58	A---R---	119 	e141e0ac1e9ede690ed4b77b2b291b4181ff54
+----------------------------------------------------------------------------------------------------
+Dossier: "31"          Nombre de fichiers: 2          Taille des fichiers: 744 
+
+        C:\Users\marcb\siteTest_02\.git\objects\33
+2021-09-01 17-36-32	A---R---	5 446 	eba324d2bcedd417c1b809753fdc8711344de8
+----------------------------------------------------------------------------------------------------
+Dossier: "33"          Nombre de fichiers: 1          Taille des fichiers: 5 446 
+
+        C:\Users\marcb\siteTest_02\.git\objects\35
+2021-09-01 16-55-13	A---R---	55 	8f0177aa92c02e79ec9a68cfd032714ffe6533
+----------------------------------------------------------------------------------------------------
+Dossier: "35"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\36
+2021-08-25 16-27-55	A---R---	642 	4baa11c7d40cc6a405c5d260407d41b0591179
+2021-09-02 18-28-27	A---R---	490 	552bffc0aecda0e28498d5ba5ad849c25dd395
+----------------------------------------------------------------------------------------------------
+Dossier: "36"          Nombre de fichiers: 2          Taille des fichiers: 1 132 
+
+        C:\Users\marcb\siteTest_02\.git\objects\37
+2021-09-01 16-55-13	A---R---	212 	7a753303801811f1f68c218002a5a4e3bb634e
+----------------------------------------------------------------------------------------------------
+Dossier: "37"          Nombre de fichiers: 1          Taille des fichiers: 212 
+
+        C:\Users\marcb\siteTest_02\.git\objects\38
+2021-09-01 16-23-58	A---R---	1 087 	234513a50e190d1b09364fd95ab4b441c56490
+2021-09-01 18-41-19	A---R---	67 	9c448920e22432af07acab76fb1ac1b75df3e7
+2021-08-25 16-27-56	A---R---	3 846 712 	aec39667eff78a9c9b89d88ec3e3496771f254
+2021-08-25 16-27-56	A---R---	50 789 	bc933c5e3db8db4060c6737e250203b7f6cd5d
+----------------------------------------------------------------------------------------------------
+Dossier: "38"          Nombre de fichiers: 4          Taille des fichiers: 3 898 655 
+
+        C:\Users\marcb\siteTest_02\.git\objects\39
+2021-09-02 18-29-27	A---R---	160 	8fd2ed43a4b1034d1251690d1302514fb1778f
+----------------------------------------------------------------------------------------------------
+Dossier: "39"          Nombre de fichiers: 1          Taille des fichiers: 160 
+
+        C:\Users\marcb\siteTest_02\.git\objects\3c
+2021-09-02 18-28-27	A---R---	5 137 	cd0653704a527a35ad7b7611d455f50b2a68e2
+----------------------------------------------------------------------------------------------------
+Dossier: "3c"          Nombre de fichiers: 1          Taille des fichiers: 5 137 
+
+        C:\Users\marcb\siteTest_02\.git\objects\3e
+2021-09-01 17-36-32	A---R---	4 070 	1a30a851c0013483a8d8e8a57665e9f544a94c
+2021-09-01 16-54-49	A---R---	168 	1fa3a407621267de70ae9a3ed78811226bcd03
+----------------------------------------------------------------------------------------------------
+Dossier: "3e"          Nombre de fichiers: 2          Taille des fichiers: 4 238 
+
+        C:\Users\marcb\siteTest_02\.git\objects\3f
+2021-09-01 19-01-10	A---R---	4 993 	5769e172485bd9c1abed056c97df68f8803767
+2021-09-01 18-41-19	A---R---	474 	c895e05491ddd6bbd9e317a96fd24f1af4e28c
+----------------------------------------------------------------------------------------------------
+Dossier: "3f"          Nombre de fichiers: 2          Taille des fichiers: 5 467 
+
+        C:\Users\marcb\siteTest_02\.git\objects\40
+2021-08-25 16-27-55	A---R---	11 778 	9208d1ba68a7d03f4255857f00f285f8a53590
+----------------------------------------------------------------------------------------------------
+Dossier: "40"          Nombre de fichiers: 1          Taille des fichiers: 11 778 
+
+        C:\Users\marcb\siteTest_02\.git\objects\41
+2021-09-01 16-54-49	A---R---	31 267 	60efbed5b3c63dafbc99e8cdc4f830e67ddfba
+----------------------------------------------------------------------------------------------------
+Dossier: "41"          Nombre de fichiers: 1          Taille des fichiers: 31 267 
+
+        C:\Users\marcb\siteTest_02\.git\objects\42
+2021-08-25 16-27-55	A---R---	3 282 	924fac0f90033b8d67bc286de009922d7e3727
+----------------------------------------------------------------------------------------------------
+Dossier: "42"          Nombre de fichiers: 1          Taille des fichiers: 3 282 
+
+        C:\Users\marcb\siteTest_02\.git\objects\44
+2021-08-25 16-27-56	A---R---	496 429 	27f0f1acefba0ea883b250fd94c431bf6a1b4a
+2021-09-01 16-55-12	A---R---	67 	5ed19d8c867b0c56a2a968dbefef8d2e556cea
+2021-08-25 16-27-55	A---R---	8 665 	a1dc8b13a17deb30fc2550fb940f2ad8132e0b
+2021-09-02 18-28-27	A---R---	122 	c6ddbf0188253b654300d7a92e2329d0504f45
+2021-09-01 17-36-32	A---R---	5 491 	da27d3e2fc42210b96ac42f9fdb324a5e63827
+----------------------------------------------------------------------------------------------------
+Dossier: "44"          Nombre de fichiers: 5          Taille des fichiers: 510 774 
+
+        C:\Users\marcb\siteTest_02\.git\objects\48
+2021-09-01 17-36-32	A---R---	4 298 	00d9daba1068970465346518dfa16d17dc9fe5
+----------------------------------------------------------------------------------------------------
+Dossier: "48"          Nombre de fichiers: 1          Taille des fichiers: 4 298 
+
+        C:\Users\marcb\siteTest_02\.git\objects\49
+2021-09-01 16-54-49	A---R---	5 722 	2f4dccdbdcee0ed8677e17099820493bb63588
+2021-09-01 16-54-49	A---R---	4 305 	321f1085de9f613cd23dc73bad7e9af64ed5cc
+2021-09-02 18-28-27	A---R---	1 002 	eb815355d265687255d588185dbc70d6522c33
+----------------------------------------------------------------------------------------------------
+Dossier: "49"          Nombre de fichiers: 3          Taille des fichiers: 11 029 
+
+        C:\Users\marcb\siteTest_02\.git\objects\4a
+2021-08-25 16-27-57	A---R---	320 982 	22bf9bffb55e127458612f1471610a25de58fc
+----------------------------------------------------------------------------------------------------
+Dossier: "4a"          Nombre de fichiers: 1          Taille des fichiers: 320 982 
+
+        C:\Users\marcb\siteTest_02\.git\objects\4b
+2021-09-01 17-36-32	A---R---	1 095 789 	579ee26c27e1e29292fad1a60b7966496f9fa9
+2021-08-25 16-27-53	A---R---	1 087 	84df23930de8c6e9da3b03aa092734506b77d0
+2021-09-01 17-36-32	A---R---	4 291 	e36f900e32375b0ce96dbd62bb08a40cfb78b2
+----------------------------------------------------------------------------------------------------
+Dossier: "4b"          Nombre de fichiers: 3          Taille des fichiers: 1 101 167 
+
+        C:\Users\marcb\siteTest_02\.git\objects\4c
+2021-09-01 17-36-55	A---R---	906 	cd38c588578878bd054513322102c63a7b7465
+----------------------------------------------------------------------------------------------------
+Dossier: "4c"          Nombre de fichiers: 1          Taille des fichiers: 906 
+
+        C:\Users\marcb\siteTest_02\.git\objects\4d
+2021-09-01 16-54-49	A---R---	49 860 	c431faa22109794adec249da697fe14d8fb802
+----------------------------------------------------------------------------------------------------
+Dossier: "4d"          Nombre de fichiers: 1          Taille des fichiers: 49 860 
+
+        C:\Users\marcb\siteTest_02\.git\objects\4e
+2021-08-25 16-29-29	A---R---	1 499 	28aa4f6a8428a993d8db544bbdb9192f5cd51b
+----------------------------------------------------------------------------------------------------
+Dossier: "4e"          Nombre de fichiers: 1          Taille des fichiers: 1 499 
+
+        C:\Users\marcb\siteTest_02\.git\objects\4f
+2021-09-02 18-29-27	A---R---	211 	d077b97296324581b6034343117c9b1b74f05c
+----------------------------------------------------------------------------------------------------
+Dossier: "4f"          Nombre de fichiers: 1          Taille des fichiers: 211 
+
+        C:\Users\marcb\siteTest_02\.git\objects\50
+2021-09-01 16-55-13	A---R---	946 	0aa8a04f7429dd5716348a2103574ec3ff09a1
+2021-09-01 16-23-58	A---R---	661 	86a891fa347a1f87b49387ba91cd911572c324
+2021-09-02 18-28-27	A---R---	740 	f28a979ec2433c59edfeb81c86b971201582f4
+----------------------------------------------------------------------------------------------------
+Dossier: "50"          Nombre de fichiers: 3          Taille des fichiers: 2 347 
+
+        C:\Users\marcb\siteTest_02\.git\objects\51
+2021-09-01 17-36-32	A---R---	5 542 	2dd9542f60c0b8aa754c9c1460215008c21f25
+2021-09-01 16-55-13	A---R---	113 	6fb2fba94ad2c92ffb2819244e38977b714438
+2021-08-25 16-27-55	A---R---	209 445 	af50fca14eac1ba0bf10cbfac5cde50a34b440
+----------------------------------------------------------------------------------------------------
+Dossier: "51"          Nombre de fichiers: 3          Taille des fichiers: 215 100 
+
+        C:\Users\marcb\siteTest_02\.git\objects\53
+2021-09-01 18-40-48	A---R---	90 	43a702327c6b1fabbf20482b8d16f6376058f6
+2021-09-01 16-55-13	A---R---	304 	bf6cb988e36c0a4761ca6c2ba1d753b8222631
+2021-09-01 16-54-49	A---R---	4 977 	e74f578eacd260d372e4b42255298b4c2e1835
+----------------------------------------------------------------------------------------------------
+Dossier: "53"          Nombre de fichiers: 3          Taille des fichiers: 5 371 
+
+        C:\Users\marcb\siteTest_02\.git\objects\55
+2021-08-25 15-09-11	A---R---	131 	831e3b0d83b9fff89074a5d061b91833efd507
+----------------------------------------------------------------------------------------------------
+Dossier: "55"          Nombre de fichiers: 1          Taille des fichiers: 131 
+
+        C:\Users\marcb\siteTest_02\.git\objects\56
+2021-09-01 18-41-19	A---R---	214 	24ca5395e8ec5dce242dc663cd0b06828a1fbc
+----------------------------------------------------------------------------------------------------
+Dossier: "56"          Nombre de fichiers: 1          Taille des fichiers: 214 
+
+        C:\Users\marcb\siteTest_02\.git\objects\59
+2021-08-25 16-27-57	A---R---	54 763 	a28c22801e53a78c7349d518fc68c020802d8d
+----------------------------------------------------------------------------------------------------
+Dossier: "59"          Nombre de fichiers: 1          Taille des fichiers: 54 763 
+
+        C:\Users\marcb\siteTest_02\.git\objects\5a
+2021-09-02 18-29-27	A---R---	67 	2b889aba5df09f47e0803937bbabd14fd6e1da
+2021-09-01 17-36-32	A---R---	4 300 	5b92efd3f2369d4598f2c5b11c7d91fcb19675
+----------------------------------------------------------------------------------------------------
+Dossier: "5a"          Nombre de fichiers: 2          Taille des fichiers: 4 367 
+
+        C:\Users\marcb\siteTest_02\.git\objects\5b
+2021-09-01 19-01-10	A---R---	5 554 	9a8392c455192e03fb06111c5c4c549256f17a
+----------------------------------------------------------------------------------------------------
+Dossier: "5b"          Nombre de fichiers: 1          Taille des fichiers: 5 554 
+
+        C:\Users\marcb\siteTest_02\.git\objects\5c
+2021-09-01 16-54-49	A---R---	5 576 	39b062772bba845bb8de68965371de2d7ad441
+2021-09-02 18-28-27	A---R---	988 	b4799e9550d4b4ca8141311c9ce026f762f9f0
+2021-09-01 18-41-19	A---R---	175 	d7078eaf557bdcd7ad732a0080a793f3b805ea
+----------------------------------------------------------------------------------------------------
+Dossier: "5c"          Nombre de fichiers: 3          Taille des fichiers: 6 739 
+
+        C:\Users\marcb\siteTest_02\.git\objects\61
+2021-08-25 16-27-57	A---R---	288 979 	653580c5e2922422ef831f6a13d9fb83532d6a
+2021-09-01 16-55-13	A---R---	55 	9c97f71d50913456e8e6fce70ee54acf6efe69
+2021-08-25 16-27-56	A---R---	1 308 415 	f915f6cf10d721fa5f0a911ceb95965bf850ce
+----------------------------------------------------------------------------------------------------
+Dossier: "61"          Nombre de fichiers: 3          Taille des fichiers: 1 597 449 
+
+        C:\Users\marcb\siteTest_02\.git\objects\62
+2021-09-01 16-54-49	A---R---	5 991 	955acaffd0eae4911873019437f4a58498531b
+2021-09-02 18-28-27	A---R---	224 	f1b661d1a87c23d5dd6a687f259ed61f4f496c
+----------------------------------------------------------------------------------------------------
+Dossier: "62"          Nombre de fichiers: 2          Taille des fichiers: 6 215 
+
+        C:\Users\marcb\siteTest_02\.git\objects\63
+2021-09-01 16-55-13	A---R---	116 	10b8bb195caed8375dde4025eac0ecf9e2a113
+2021-09-01 16-54-49	A---R---	469 156 	d482f624b2d7ba1598a768f649fb72e09e1144
+----------------------------------------------------------------------------------------------------
+Dossier: "63"          Nombre de fichiers: 2          Taille des fichiers: 469 272 
+
+        C:\Users\marcb\siteTest_02\.git\objects\65
+2021-09-01 17-36-55	A---R---	305 	834113d120f9ea69ddfe5f35ef1ca8ee7d0065
+2021-09-01 16-54-49	A---R---	2 205 	8f9aa827838d77156445ec95e447d4b0a7326f
+----------------------------------------------------------------------------------------------------
+Dossier: "65"          Nombre de fichiers: 2          Taille des fichiers: 2 510 
+
+        C:\Users\marcb\siteTest_02\.git\objects\66
+2021-09-01 16-54-49	A---R---	4 832 	1d3b14351afee42fa5098d38c2c932a6b304ae
+----------------------------------------------------------------------------------------------------
+Dossier: "66"          Nombre de fichiers: 1          Taille des fichiers: 4 832 
+
+        C:\Users\marcb\siteTest_02\.git\objects\69
+2021-09-01 16-54-49	A---R---	4 285 	13669a96f7db6469b56baf48b986ac78101f3e
+2021-09-01 16-55-13	A---R---	55 	848887fad1021e8306a54f6e1ae6611cd5126a
+2021-08-25 16-29-29	A---R---	283 	e6da1ee42f4109a21db9df6a1592a1d8ba191e
+----------------------------------------------------------------------------------------------------
+Dossier: "69"          Nombre de fichiers: 3          Taille des fichiers: 4 623 
+
+        C:\Users\marcb\siteTest_02\.git\objects\6a
+2021-09-01 16-24-29	A---R---	247 	b737f2fc3e5cb2cbb5d00666571faafa22ff0f
+----------------------------------------------------------------------------------------------------
+Dossier: "6a"          Nombre de fichiers: 1          Taille des fichiers: 247 
+
+        C:\Users\marcb\siteTest_02\.git\objects\6b
+2021-09-01 16-55-13	A---R---	470 	4e791e874c24892ebe6000b23fa6ee02db8bf4
+2021-09-01 18-41-19	A---R---	472 	5074d9ea470f12f66be0b9d74f0b59f24c76c8
+2021-09-01 16-55-12	A---R---	55 	649d64361d4316c21b8a8f2c4cfc95b676e500
+2021-09-01 16-54-49	A---R---	279 934 	72da3856bd398d5c956e068c6b46b9d6680d89
+2021-09-01 17-36-55	A---R---	239 	fb3335c3ce676c301f6d84fef67ff9de71a443
+----------------------------------------------------------------------------------------------------
+Dossier: "6b"          Nombre de fichiers: 5          Taille des fichiers: 281 170 
+
+        C:\Users\marcb\siteTest_02\.git\objects\6c
+2021-09-01 17-36-55	A---R---	55 	55417400b1b21ac80f410ce5ddf727869d26c4
+----------------------------------------------------------------------------------------------------
+Dossier: "6c"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\6d
+2021-09-02 18-28-27	A---R---	678 	be2ae35afc30f435766d4eacb3478b12ecec88
+----------------------------------------------------------------------------------------------------
+Dossier: "6d"          Nombre de fichiers: 1          Taille des fichiers: 678 
+
+        C:\Users\marcb\siteTest_02\.git\objects\6e
+2021-09-01 16-54-49	A---R---	450 	d4dba58918db2393faf4fc1d9a48daea6af7d1
+----------------------------------------------------------------------------------------------------
+Dossier: "6e"          Nombre de fichiers: 1          Taille des fichiers: 450 
+
+        C:\Users\marcb\siteTest_02\.git\objects\6f
+2021-09-01 16-54-49	A---R---	5 754 	7832f328b1108d314efad978b377c9905bd61b
+2021-09-01 16-54-49	A---R---	3 986 	a1d40b817b6e0da3f0c3c8359a6e757c03c14d
+----------------------------------------------------------------------------------------------------
+Dossier: "6f"          Nombre de fichiers: 2          Taille des fichiers: 9 740 
+
+        C:\Users\marcb\siteTest_02\.git\objects\71
+2021-09-01 16-55-13	A---R---	472 	25aa97e437ac2dd23b49b42b4eeba84660f758
+----------------------------------------------------------------------------------------------------
+Dossier: "71"          Nombre de fichiers: 1          Taille des fichiers: 472 
+
+        C:\Users\marcb\siteTest_02\.git\objects\72
+2021-09-01 17-20-53	A---R---	49 	41e82e60888da68ea4da31b126417bff998495
+2021-09-01 16-54-49	A---R---	166 	9e77bd88dc5d24bc72ec566e58fc94f08200aa
+2021-09-01 19-02-26	A---R---	473 	ee47fc4206148b07a6fed21242b25908471cdf
+----------------------------------------------------------------------------------------------------
+Dossier: "72"          Nombre de fichiers: 3          Taille des fichiers: 688 
+
+        C:\Users\marcb\siteTest_02\.git\objects\76
+2021-08-25 16-27-56	A---R---	36 817 	97f477aa16cc96af2a5d4099f9b5099a5eb61b
+----------------------------------------------------------------------------------------------------
+Dossier: "76"          Nombre de fichiers: 1          Taille des fichiers: 36 817 
+
+        C:\Users\marcb\siteTest_02\.git\objects\77
+2021-08-25 16-27-56	A---R---	50 516 	88c5dea13d36852244408307beca45e1941513
+----------------------------------------------------------------------------------------------------
+Dossier: "77"          Nombre de fichiers: 1          Taille des fichiers: 50 516 
+
+        C:\Users\marcb\siteTest_02\.git\objects\78
+2021-09-01 17-36-32	A---R---	5 414 	664677714af1fd1013519119b6c53a324ba3f6
+2021-08-25 16-27-55	A---R---	844 	7f5199b385c4a6311bb447865ed8a6748b3808
+----------------------------------------------------------------------------------------------------
+Dossier: "78"          Nombre de fichiers: 2          Taille des fichiers: 6 258 
+
+        C:\Users\marcb\siteTest_02\.git\objects\79
+2021-09-01 17-36-55	A---R---	55 	4c3f7b67343054064db593683e19cf1886438c
+----------------------------------------------------------------------------------------------------
+Dossier: "79"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\7c
+2021-08-25 16-27-54	A---R---	662 	281df9a67221607ac06c3faf309dcbf905ca7c
+2021-08-25 16-27-55	A---R---	3 603 	c60b295fa2dcb82537a63792c9b3b3c2e74c33
+2021-09-02 18-28-27	A---R---	116 	f3a6bd60864f33e4af4c8983af9d54e17f89a6
+----------------------------------------------------------------------------------------------------
+Dossier: "7c"          Nombre de fichiers: 3          Taille des fichiers: 4 381 
+
+        C:\Users\marcb\siteTest_02\.git\objects\7d
+2021-09-01 16-23-58	A---R---	794 	3aa1d21cb339d8df25bae3b3db4dca6a9de9ba
+----------------------------------------------------------------------------------------------------
+Dossier: "7d"          Nombre de fichiers: 1          Taille des fichiers: 794 
+
+        C:\Users\marcb\siteTest_02\.git\objects\7e
+2021-09-01 16-54-49	A---R---	25 069 	426a78c4cbbcff63b121aff7e975ca16e303d6
+2021-09-01 17-36-32	A---R---	6 043 	9bcd53ff8280a2eba6c4502c91cd9541b61496
+2021-09-01 16-54-49	A---R---	730 972 	9c19011e0c1f0179505881e989dbd2cac821a0
+2021-08-25 16-27-55	A---R---	43 020 	e69715bc82140e423ab6b102b5d30b94798b61
+----------------------------------------------------------------------------------------------------
+Dossier: "7e"          Nombre de fichiers: 4          Taille des fichiers: 805 104 
+
+        C:\Users\marcb\siteTest_02\.git\objects\80
+2021-09-01 16-54-49	A---R---	5 713 	523f3def9e8f33930c9c07548e0aed589c7976
+2021-08-25 16-27-55	A---R---	43 897 	d7a46f1b2bc3a8122c7758e629b86a288f8519
+----------------------------------------------------------------------------------------------------
+Dossier: "80"          Nombre de fichiers: 2          Taille des fichiers: 49 610 
+
+        C:\Users\marcb\siteTest_02\.git\objects\81
+2021-08-25 16-27-56	A---R---	49 353 	1ef104d79d2a5a2d023576fe720bffea4bef55
+2021-09-01 16-23-58	A---R---	997 	fafe365ee723be6a303c134a7fdcda35b9c9b2
+----------------------------------------------------------------------------------------------------
+Dossier: "81"          Nombre de fichiers: 2          Taille des fichiers: 50 350 
+
+        C:\Users\marcb\siteTest_02\.git\objects\83
+2021-09-01 16-23-58	A---R---	818 	99eb8b2aa0ecdb36e0a0593d1114ad78fa0c89
+----------------------------------------------------------------------------------------------------
+Dossier: "83"          Nombre de fichiers: 1          Taille des fichiers: 818 
+
+        C:\Users\marcb\siteTest_02\.git\objects\85
+2021-08-25 16-27-55	A---R---	2 754 586 	b58c3062ff3a0806970919ef52cf5bc1a66930
+2021-09-01 16-54-49	A---R---	5 569 	d61c7b458dc8ae33e1e12f0709111fc10ef2c5
+----------------------------------------------------------------------------------------------------
+Dossier: "85"          Nombre de fichiers: 2          Taille des fichiers: 2 760 155 
+
+        C:\Users\marcb\siteTest_02\.git\objects\86
+2021-08-25 16-27-53	A---R---	994 	de95272b63c9844bc35a297d94abeee77e88eb
+2021-09-01 17-36-55	A---R---	67 	e8fa964efff44b6e2e69c680e030965e5f1269
+----------------------------------------------------------------------------------------------------
+Dossier: "86"          Nombre de fichiers: 2          Taille des fichiers: 1 061 
+
+        C:\Users\marcb\siteTest_02\.git\objects\88
+2021-09-01 17-36-55	A---R---	55 	36fb08b549bff06fbcc4ad1d458d02a660f50a
+----------------------------------------------------------------------------------------------------
+Dossier: "88"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\89
+2021-09-01 16-54-49	A---R---	242 254 	56839bb02e1d859d8fff234d89424800e6c846
+----------------------------------------------------------------------------------------------------
+Dossier: "89"          Nombre de fichiers: 1          Taille des fichiers: 242 254 
+
+        C:\Users\marcb\siteTest_02\.git\objects\8b
+2021-08-25 16-27-56	A---R---	40 558 	1c17f1a08e1f6b94491597d62eecca3a949d34
+2021-08-25 16-27-57	A---R---	3 497 648 	714ccd7ae3df3402e55ac4679e609b2fca073d
+2021-09-01 16-55-13	A---R---	55 	83efdb61926895f8e6e39c18e0f4d2fa149ada
+2021-09-01 16-55-12	A---R---	55 	b8c4c1bf01016a3439a54b443dbc584b494355
+----------------------------------------------------------------------------------------------------
+Dossier: "8b"          Nombre de fichiers: 4          Taille des fichiers: 3 538 316 
+
+        C:\Users\marcb\siteTest_02\.git\objects\8c
+2021-09-01 16-54-49	A---R---	371 	6a2ff7ce990c96faf683e79608acad32ca6af1
+----------------------------------------------------------------------------------------------------
+Dossier: "8c"          Nombre de fichiers: 1          Taille des fichiers: 371 
+
+        C:\Users\marcb\siteTest_02\.git\objects\8d
+2021-09-01 17-20-53	A---R---	67 	4506199914ff981a42b12bb4d28ed8c366bee5
+----------------------------------------------------------------------------------------------------
+Dossier: "8d"          Nombre de fichiers: 1          Taille des fichiers: 67 
+
+        C:\Users\marcb\siteTest_02\.git\objects\8e
+2021-09-01 16-23-58	A---R---	87 	4b59739b72332ee6a5cee946e32faf49c08ee3
+----------------------------------------------------------------------------------------------------
+Dossier: "8e"          Nombre de fichiers: 1          Taille des fichiers: 87 
+
+        C:\Users\marcb\siteTest_02\.git\objects\8f
+2021-09-01 16-55-12	A---R---	55 	c594c9b1f585225d237630f702d686287c2250
+----------------------------------------------------------------------------------------------------
+Dossier: "8f"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\90
+2021-09-01 16-54-49	A---R---	158 190 	cbb46cebaab37fa51f540cdb9bce6a67008135
+----------------------------------------------------------------------------------------------------
+Dossier: "90"          Nombre de fichiers: 1          Taille des fichiers: 158 190 
+
+        C:\Users\marcb\siteTest_02\.git\objects\91
+2021-09-01 17-36-32	A---R---	5 908 	2c7a899129941284c6c20df97cf0d7f98f75e3
+2021-09-01 16-54-49	A---R---	51 822 	2d974ccd20a9b4009aa775fd19f3966c933538
+----------------------------------------------------------------------------------------------------
+Dossier: "91"          Nombre de fichiers: 2          Taille des fichiers: 57 730 
+
+        C:\Users\marcb\siteTest_02\.git\objects\92
+2021-09-01 17-20-53	A---R---	54 	961d931a533e0f1dfbe859b102764704a50f26
+2021-09-02 18-28-27	A---R---	5 019 	dee230877630e63331db0c174dcc581345f6fa
+----------------------------------------------------------------------------------------------------
+Dossier: "92"          Nombre de fichiers: 2          Taille des fichiers: 5 073 
+
+        C:\Users\marcb\siteTest_02\.git\objects\93
+2021-09-02 18-28-27	A---R---	936 	0e49064029b6d558f71abb24d654d05d68969b
+2021-08-25 16-27-57	A---R---	1 556 779 	4af267fd5af0c3c59857047191cf552e0ebcbb
+2021-08-25 16-27-56	A---R---	6 960 	ae7e36b917f45e13d7f7423d1ef34f4fc5ccfb
+----------------------------------------------------------------------------------------------------
+Dossier: "93"          Nombre de fichiers: 3          Taille des fichiers: 1 564 675 
+
+        C:\Users\marcb\siteTest_02\.git\objects\95
+2021-09-01 17-36-55	A---R---	952 	a5b96e2e50b3bdb39d5cad6675d62703b217af
+2021-08-25 15-32-58	A---R---	91 	e7ba0e6c24d87bdd83c0bb09000b84fe60aaab
+----------------------------------------------------------------------------------------------------
+Dossier: "95"          Nombre de fichiers: 2          Taille des fichiers: 1 043 
+
+        C:\Users\marcb\siteTest_02\.git\objects\96
+2021-09-01 16-55-13	A---R---	55 	e8ac4065fd0bfe5a58574e296eca572c268b82
+----------------------------------------------------------------------------------------------------
+Dossier: "96"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\99
+2021-09-01 16-55-13	A---R---	55 	555d48fcafc77c88a9fb35f96069dd9f61ec4d
+2021-08-25 16-27-56	A---R---	25 997 	a90ec1b22c45dcdff3c99dddf8a8184788d6d4
+2021-08-25 16-27-53	A---R---	22 	abe5bbaca043139d8f5033aa50ac246c1fb87b
+2021-09-01 17-36-55	A---R---	55 	cdfec1ca2d7ccad7c21dc14aa2caf523c5beed
+----------------------------------------------------------------------------------------------------
+Dossier: "99"          Nombre de fichiers: 4          Taille des fichiers: 26 129 
+
+        C:\Users\marcb\siteTest_02\.git\objects\9b
+2021-09-01 17-20-28	A---R---	3 558 	34170fa0780bd00e32cda3a38f9bb357137e24
+----------------------------------------------------------------------------------------------------
+Dossier: "9b"          Nombre de fichiers: 1          Taille des fichiers: 3 558 
+
+        C:\Users\marcb\siteTest_02\.git\objects\9c
+2021-09-01 16-54-49	A---R---	6 015 	dea69f96baec3051338aea0d89b3913b968b2d
+----------------------------------------------------------------------------------------------------
+Dossier: "9c"          Nombre de fichiers: 1          Taille des fichiers: 6 015 
+
+        C:\Users\marcb\siteTest_02\.git\objects\9d
+2021-09-01 16-54-49	A---R---	266 355 	80342ce3c02d775dfdcd9cca9bdf00dc0c3c90
+2021-08-25 16-29-29	A---R---	171 	b52c9e204959fac292a8d66578e77f74b1d985
+----------------------------------------------------------------------------------------------------
+Dossier: "9d"          Nombre de fichiers: 2          Taille des fichiers: 266 526 
+
+        C:\Users\marcb\siteTest_02\.git\objects\9f
+2021-09-02 18-28-27	A---R---	573 	b5ffceb4f74c6055af40d1ce58a17260c99ccb
+----------------------------------------------------------------------------------------------------
+Dossier: "9f"          Nombre de fichiers: 1          Taille des fichiers: 573 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a0
+2021-09-02 18-28-27	A---R---	128 	241c025b25436d2de55bfcfcdc9b041a7923cd
+2021-09-01 16-54-49	A---R---	379 	6488c824edc4c859d7123745194c6b19bcd085
+----------------------------------------------------------------------------------------------------
+Dossier: "a0"          Nombre de fichiers: 2          Taille des fichiers: 507 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a1
+2021-08-25 15-33-23	A---R---	169 	10ea21e4debc99addbcb2aa2570f97013eb762
+2021-09-01 17-36-55	A---R---	473 	637b6f2d332da68bdb5d4099c56e15b3b73b0c
+----------------------------------------------------------------------------------------------------
+Dossier: "a1"          Nombre de fichiers: 2          Taille des fichiers: 642 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a2
+2021-09-01 16-23-58	A---R---	997 	1832dbcb5bfac8498a396cddd6a730d88156dc
+----------------------------------------------------------------------------------------------------
+Dossier: "a2"          Nombre de fichiers: 1          Taille des fichiers: 997 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a3
+2021-09-01 17-36-55	A---R---	80 	a653b65dd14e6ee21a5c92ee93ccc86f0541e3
+----------------------------------------------------------------------------------------------------
+Dossier: "a3"          Nombre de fichiers: 1          Taille des fichiers: 80 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a4
+2021-09-01 17-36-32	A---R---	6 022 	217a9dbe280d692b2f3df2edb06b44346a533d
+2021-09-01 16-55-12	A---R---	80 	8765b0974f44e25b439acec2cb862abc732fe4
+2021-08-25 15-07-47	A---R---	28 	941e88d932087f442f91affcbcfbd159f7773c
+2021-08-25 16-27-56	A---R---	65 349 	b5d0fd98b44872863beea3b938b226ce7e326e
+----------------------------------------------------------------------------------------------------
+Dossier: "a4"          Nombre de fichiers: 4          Taille des fichiers: 71 479 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a5
+2021-09-01 16-24-29	A---R---	55 	84ac49abfba01130764379763ba5089fe3877a
+----------------------------------------------------------------------------------------------------
+Dossier: "a5"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a6
+2021-09-01 16-24-29	A---R---	186 	9fa0e125cec763afcbc719b14f908e516da73a
+----------------------------------------------------------------------------------------------------
+Dossier: "a6"          Nombre de fichiers: 1          Taille des fichiers: 186 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a7
+2021-08-25 16-29-29	A---R---	861 	59ec65b31c210f502c4a7725bd3b62b1d51470
+2021-08-25 16-27-53	A---R---	123 	78ffb079320115981a9fbf2027d9029cf62d15
+2021-09-01 16-54-49	A---R---	6 049 	cefc9788f680a841f3d261f6c6eedb96627853
+----------------------------------------------------------------------------------------------------
+Dossier: "a7"          Nombre de fichiers: 3          Taille des fichiers: 7 033 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a8
+2021-09-02 18-29-27	A---R---	248 	1bb7ef1bfb7c9d74715d1fde54f05bbf74634d
+2021-09-01 16-55-13	A---R---	54 	f16c3261274d261cec7b012f8e7a3475d84bc5
+2021-09-01 16-55-13	A---R---	184 	f453a6f3634b0c993a6dbf43c79e07850692ed
+----------------------------------------------------------------------------------------------------
+Dossier: "a8"          Nombre de fichiers: 3          Taille des fichiers: 486 
+
+        C:\Users\marcb\siteTest_02\.git\objects\a9
+2021-09-01 16-55-13	A---R---	55 	807982a88c64b2d2557837b40f7c95567d4c34
+2021-09-01 19-02-26	A---R---	190 	b71352c660c4c62399caaf8f44aaf6691aea6e
+----------------------------------------------------------------------------------------------------
+Dossier: "a9"          Nombre de fichiers: 2          Taille des fichiers: 245 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ab
+2021-08-25 16-27-53	A---R---	818 	4a87d5b7fbe6bf4934f8bc861e1431caffcb8d
+2021-09-01 16-54-49	A---R---	727 	eda150ab8d1c9767d3d1b1be6b21995bc7f313
+----------------------------------------------------------------------------------------------------
+Dossier: "ab"          Nombre de fichiers: 2          Taille des fichiers: 1 545 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ad
+2021-09-01 16-54-49	A---R---	756 	2dd9a54c21f3f5313a6531dfc7b23690a9aee8
+2021-09-01 16-23-58	A---R---	993 	4d200e250a7f7a14b5c479af16585ff034b1e4
+----------------------------------------------------------------------------------------------------
+Dossier: "ad"          Nombre de fichiers: 2          Taille des fichiers: 1 749 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b0
+2021-09-01 16-55-13	A---R---	112 	5e022f09f309f0ce0aad7f556cfd9112686129
+2021-08-25 16-29-29	A---R---	186 	8e7b5c2ebb1cf22a703a7d9f4acd16fe36c1ae
+2021-08-25 16-27-57	A---R---	598 203 	c035fba55f6c5abd7811e3afb2e41df44de877
+----------------------------------------------------------------------------------------------------
+Dossier: "b0"          Nombre de fichiers: 3          Taille des fichiers: 598 501 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b1
+2021-09-01 17-36-55	A---R---	55 	657ad8e3b6f815cd431e8aed1ab4c1cde85844
+2021-09-02 18-28-27	A---R---	127 	730db0b4149f95c7515b45f3029e17e268a6ce
+2021-08-25 16-27-55	A---R---	2 050 	f2138ab51617f58049d604fe74de0d1814783b
+----------------------------------------------------------------------------------------------------
+Dossier: "b1"          Nombre de fichiers: 3          Taille des fichiers: 2 232 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b2
+2021-09-01 17-36-32	A---R---	6 008 	07f9b7b4c2ff7d458aa71c9338f4d750b3c0d1
+2021-09-01 16-54-49	A---R---	3 578 	cf3f4ca17256c132e6d5ccbf4ddef1a29fb96f
+----------------------------------------------------------------------------------------------------
+Dossier: "b2"          Nombre de fichiers: 2          Taille des fichiers: 9 586 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b3
+2021-08-25 16-29-29	A---R---	247 	22051dfceb0fc7e72e73fe9338bebc4f709647
+2021-09-02 18-29-27	A---R---	60 	81356697549989a7361bc373f90808dc3517f0
+----------------------------------------------------------------------------------------------------
+Dossier: "b3"          Nombre de fichiers: 2          Taille des fichiers: 307 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b4
+2021-08-25 16-27-56	A---R---	2 261 173 	119a0aece4490b24c4ef9633b96ea5e0b02815
+----------------------------------------------------------------------------------------------------
+Dossier: "b4"          Nombre de fichiers: 1          Taille des fichiers: 2 261 173 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b5
+2021-09-01 16-24-29	A---R---	882 	b9983deaf9a90dace9ee93ea0beda5517d43ba
+2021-09-01 16-55-13	A---R---	55 	d4d9e21201e5945b6aec78296c5e03b8896176
+----------------------------------------------------------------------------------------------------
+Dossier: "b5"          Nombre de fichiers: 2          Taille des fichiers: 937 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b6
+2021-09-01 16-24-29	A---R---	252 	6ed736223f89a8a99e5affd29b408a5fb31568
+2021-09-01 17-36-55	A---R---	55 	b3859383e1704757e12bacafd02ed5c734737e
+2021-09-01 17-20-53	A---R---	178 	da4812c978d12d3267fcb1aeff283aa77b8f10
+----------------------------------------------------------------------------------------------------
+Dossier: "b6"          Nombre de fichiers: 3          Taille des fichiers: 485 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b7
+2021-08-25 16-27-56	A---R---	26 373 	1742b76cfdb0d60a5972b8c7b957c43c11cf7d
+2021-08-25 16-27-56	A---R---	137 902 	889cd8df98e74e6d8cf65bbf2c315edf8f0bbf
+----------------------------------------------------------------------------------------------------
+Dossier: "b7"          Nombre de fichiers: 2          Taille des fichiers: 164 275 
+
+        C:\Users\marcb\siteTest_02\.git\objects\b9
+2021-09-01 17-36-55	A---R---	55 	5f1a2b4e8dd37c6f449e740e8150a48a11f948
+----------------------------------------------------------------------------------------------------
+Dossier: "b9"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ba
+2021-09-01 17-36-55	A---R---	129 	25918510d8084576e47eab73652091ffbec324
+----------------------------------------------------------------------------------------------------
+Dossier: "ba"          Nombre de fichiers: 1          Taille des fichiers: 129 
+
+        C:\Users\marcb\siteTest_02\.git\objects\bb
+2021-09-01 16-23-58	A---R---	558 	7299a7fdb47cfb1f6bd26f3c3b091793007410
+----------------------------------------------------------------------------------------------------
+Dossier: "bb"          Nombre de fichiers: 1          Taille des fichiers: 558 
+
+        C:\Users\marcb\siteTest_02\.git\objects\bc
+2021-09-01 16-54-49	A---R---	63 548 	ab2dc9521363dcde4ded345d658efc045009eb
+----------------------------------------------------------------------------------------------------
+Dossier: "bc"          Nombre de fichiers: 1          Taille des fichiers: 63 548 
+
+        C:\Users\marcb\siteTest_02\.git\objects\bd
+2021-09-01 16-55-13	A---R---	44 	c237a19410e75a29fa152950608cb919193fe0
+----------------------------------------------------------------------------------------------------
+Dossier: "bd"          Nombre de fichiers: 1          Taille des fichiers: 44 
+
+        C:\Users\marcb\siteTest_02\.git\objects\be
+2021-09-02 18-28-27	A---R---	578 	00549b393c528e0135ca4e89f2789f9edef14b
+----------------------------------------------------------------------------------------------------
+Dossier: "be"          Nombre de fichiers: 1          Taille des fichiers: 578 
+
+        C:\Users\marcb\siteTest_02\.git\objects\bf
+2021-09-01 16-54-49	A---R---	166 	a5d84bcf2aad275710f7e7e043f177284fdec4
+----------------------------------------------------------------------------------------------------
+Dossier: "bf"          Nombre de fichiers: 1          Taille des fichiers: 166 
+
+        C:\Users\marcb\siteTest_02\.git\objects\c0
+2021-09-01 16-24-29	A---R---	184 	33c460ee5b5bdf54fcb92cbb6c6ed9bff784e7
+2021-09-01 17-36-55	A---R---	55 	caae160a349d65220d0134541e9a88e4ced3d6
+----------------------------------------------------------------------------------------------------
+Dossier: "c0"          Nombre de fichiers: 2          Taille des fichiers: 239 
+
+        C:\Users\marcb\siteTest_02\.git\objects\c4
+2021-09-01 16-54-49	A---R---	1 367 	0ee51919dfa9e4b50192f699050dd120df4345
+2021-09-01 16-55-13	A---R---	43 	69709af1912d57557682977abe0e5467ac8244
+2021-08-25 16-27-55	A---R---	36 048 	c6022f2982e8dae64cebd6b9a2b59f2547faad
+----------------------------------------------------------------------------------------------------
+Dossier: "c4"          Nombre de fichiers: 3          Taille des fichiers: 37 458 
+
+        C:\Users\marcb\siteTest_02\.git\objects\c7
+2021-09-01 16-23-58	A---R---	1 112 	028973e4c7d94717e2005db80860b221f49e13
+2021-09-01 17-36-32	A---R---	983 	030c8d0d5c1df15836384327b3fd614b469f9c
+2021-08-25 16-29-29	A---R---	59 	f39d5f4aa93add718aa8b7db3c122b17db110d
+----------------------------------------------------------------------------------------------------
+Dossier: "c7"          Nombre de fichiers: 3          Taille des fichiers: 2 154 
+
+        C:\Users\marcb\siteTest_02\.git\objects\c8
+2021-09-01 16-54-49	A---R---	30 079 	5a86215f0e55adfadcae6d05660b205161df36
+2021-09-01 16-54-49	A---R---	21 086 	5dd66a880d8fe73e9686822d9ca11fa8b72166
+----------------------------------------------------------------------------------------------------
+Dossier: "c8"          Nombre de fichiers: 2          Taille des fichiers: 51 165 
+
+        C:\Users\marcb\siteTest_02\.git\objects\c9
+2021-08-25 16-27-57	A---R---	56 685 	2a2b30bebd3a101d915847ad936cf335587c09
+2021-09-01 16-55-12	A---R---	55 	54e9fe85a1e152609778bd59471475ee321fe5
+2021-09-01 17-36-55	A---R---	54 	76b44dcfaceda5b9a39e94a8b3f7078b453291
+2021-09-01 16-54-49	A---R---	1 177 186 	af8adbf371e3dd6a48e0c6000e24635c3c1deb
+----------------------------------------------------------------------------------------------------
+Dossier: "c9"          Nombre de fichiers: 4          Taille des fichiers: 1 233 980 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ca
+2021-09-01 17-36-32	A---R---	5 984 	c971b090666643825d7cb2d16fc73dad478097
+----------------------------------------------------------------------------------------------------
+Dossier: "ca"          Nombre de fichiers: 1          Taille des fichiers: 5 984 
+
+        C:\Users\marcb\siteTest_02\.git\objects\cc
+2021-09-01 16-54-49	A---R---	5 420 	3fb131205ce65bf1d4e8cd8865f85465889624
+2021-09-01 16-54-49	A---R---	8 714 	7e6c5df9767c00ef48a9d8fdfed97deb49ec83
+----------------------------------------------------------------------------------------------------
+Dossier: "cc"          Nombre de fichiers: 2          Taille des fichiers: 14 134 
+
+        C:\Users\marcb\siteTest_02\.git\objects\cd
+2021-09-01 18-40-48	A---R---	3 636 	1344e258b643b082bc194deedb71cfcb303e4e
+2021-08-25 16-29-29	A---R---	55 	3389dab6022bf6d020975dd9f79c92271ecc37
+2021-09-01 17-36-55	A---R---	55 	84a3884a9150f20c4141f68ad17e5b9076499a
+2021-09-02 18-28-27	A---R---	512 	a849322751c93d79365e282bd3c08e208a7be7
+----------------------------------------------------------------------------------------------------
+Dossier: "cd"          Nombre de fichiers: 4          Taille des fichiers: 4 258 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d0
+2021-09-01 16-55-13	A---R---	238 	858672b80403ff66845569770f538ef2421f2e
+----------------------------------------------------------------------------------------------------
+Dossier: "d0"          Nombre de fichiers: 1          Taille des fichiers: 238 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d2
+2021-09-01 16-54-49	A---R---	262 754 	cc62bc5a09cdb65bfd82134e1274ecd29d459f
+----------------------------------------------------------------------------------------------------
+Dossier: "d2"          Nombre de fichiers: 1          Taille des fichiers: 262 754 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d3
+2021-08-25 16-27-53	A---R---	558 	53c2cbeead69f9eacf9c70872a5ae52f93c21c
+2021-09-02 18-29-27	A---R---	413 	c08e5547b95d435f00d15addc2ca86b88b88cd
+----------------------------------------------------------------------------------------------------
+Dossier: "d3"          Nombre de fichiers: 2          Taille des fichiers: 971 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d4
+2021-09-01 16-54-49	A---R---	293 	317d47cb82206d965562133e89c25f3ef78139
+2021-09-01 17-36-55	A---R---	54 	5deace8dbd060c6ee562262314b78da792b718
+----------------------------------------------------------------------------------------------------
+Dossier: "d4"          Nombre de fichiers: 2          Taille des fichiers: 347 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d5
+2021-09-01 16-54-49	A---R---	4 305 	200f55176517cda77fe6f4ae52c47d540212cc
+2021-09-01 17-20-53	A---R---	878 	80b6038debaefb875eb1c97ef5f7df8619ae9e
+2021-09-02 18-29-27	A---R---	63 	bb354b95ed12216382fa238ce554bf354e5afe
+2021-08-25 16-27-55	A---R---	25 828 	d10f6be62acc10fec6e11e8dc4affe1184a17b
+----------------------------------------------------------------------------------------------------
+Dossier: "d5"          Nombre de fichiers: 4          Taille des fichiers: 31 074 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d7
+2021-09-01 17-36-55	A---R---	180 	08f64d400aa0d33a81bd1604b93cd1b4729ba6
+2021-09-01 16-54-49	A---R---	44 142 	b9ad192b35690e5e5152d5a3128a76eb5bd949
+----------------------------------------------------------------------------------------------------
+Dossier: "d7"          Nombre de fichiers: 2          Taille des fichiers: 44 322 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d8
+2021-08-25 16-27-57	A---R---	447 432 	1afc5441b9317f4d32ec4d137eef0addf43b10
+2021-08-25 16-27-55	A---R---	17 135 	36e3e363d46464353b99a182d702b287b5ddfc
+----------------------------------------------------------------------------------------------------
+Dossier: "d8"          Nombre de fichiers: 2          Taille des fichiers: 464 567 
+
+        C:\Users\marcb\siteTest_02\.git\objects\d9
+2021-09-01 17-36-55	A---R---	113 	a2312bcd766b7136f5018289d36babbf51e5c9
+2021-09-01 16-54-49	A---R---	4 076 	c77ab8822f7f8da3a44fca0c231f02c425365e
+----------------------------------------------------------------------------------------------------
+Dossier: "d9"          Nombre de fichiers: 2          Taille des fichiers: 4 189 
+
+        C:\Users\marcb\siteTest_02\.git\objects\da
+2021-09-01 17-36-55	A---R---	55 	60ec5a5aad390b0036b8515cec9b0d6f9a31a9
+----------------------------------------------------------------------------------------------------
+Dossier: "da"          Nombre de fichiers: 1          Taille des fichiers: 55 
+
+        C:\Users\marcb\siteTest_02\.git\objects\db
+2021-09-01 16-24-29	A---R---	59 	5b05e55f4a5e7d6d07d96c03400e32de93e4c0
+2021-09-01 16-54-49	A---R---	12 119 820 	859ae1d6aa62a74d4cc56f8164073bedb23536
+----------------------------------------------------------------------------------------------------
+Dossier: "db"          Nombre de fichiers: 2          Taille des fichiers: 12 119 879 
+
+        C:\Users\marcb\siteTest_02\.git\objects\dd
+2021-09-01 16-55-13	A---R---	54 	a0a669eb8bb44c110d58e7fa6f64e1f3681bde
+----------------------------------------------------------------------------------------------------
+Dossier: "dd"          Nombre de fichiers: 1          Taille des fichiers: 54 
+
+        C:\Users\marcb\siteTest_02\.git\objects\de
+2021-09-01 17-36-32	A---R---	5 716 	6356da278893f635154bbd9e109bba01036102
+----------------------------------------------------------------------------------------------------
+Dossier: "de"          Nombre de fichiers: 1          Taille des fichiers: 5 716 
+
+        C:\Users\marcb\siteTest_02\.git\objects\df
+2021-08-25 16-27-55	A---R---	5 496 	4c2a3f4c69e7ae57accf95ba2485479881fc31
+2021-08-25 15-33-23	A---R---	54 	66de02272cf8979b6436a9646292cb36afb2fe
+2021-09-01 17-36-32	A---R---	2 881 	6a0532512ca4da2d4579f046496350de0109ae
+----------------------------------------------------------------------------------------------------
+Dossier: "df"          Nombre de fichiers: 3          Taille des fichiers: 8 431 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e0
+2021-09-02 18-29-27	A---R---	191 	64874b67eaa9f9c30e66f9eaa2f9e923ee900b
+----------------------------------------------------------------------------------------------------
+Dossier: "e0"          Nombre de fichiers: 1          Taille des fichiers: 191 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e1
+2021-09-01 16-23-58	A---R---	800 	b573b667d6f5cd73cb9614a811edcf461ccb6d
+2021-08-25 16-27-55	A---R---	14 767 	e271c00e31d309e9bab411caeef86d6d6d0d57
+----------------------------------------------------------------------------------------------------
+Dossier: "e1"          Nombre de fichiers: 2          Taille des fichiers: 15 567 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e2
+2021-08-25 16-27-55	A---R---	31 968 	082d23863160da5a13beb80267f657c95d5ef9
+2021-09-01 18-41-19	A---R---	55 	87b3e03be6e37e52b35cfb60caf677fb8ee1d7
+2021-08-25 16-29-29	A---R---	180 	da4b44467e2563b72826b8e05695ac8a5fa080
+----------------------------------------------------------------------------------------------------
+Dossier: "e2"          Nombre de fichiers: 3          Taille des fichiers: 32 203 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e3
+2021-09-01 16-23-58	A---R---	120 	6da708e1a045cfe75198ea52b3fe173ba60673
+----------------------------------------------------------------------------------------------------
+Dossier: "e3"          Nombre de fichiers: 1          Taille des fichiers: 120 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e4
+2021-09-01 16-54-49	A---R---	72 	5d6492dbf250dd7c92d24ce1f9e730b07359a6
+2021-08-25 16-27-55	A---R---	2 970 	d8934a243561ec401f35e781f69f2389c35c01
+----------------------------------------------------------------------------------------------------
+Dossier: "e4"          Nombre de fichiers: 2          Taille des fichiers: 3 042 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e5
+2021-09-01 16-24-29	A---R---	180 	9c2c14ab50c5aa0f0eba3e6b5c04d419b544b9
+----------------------------------------------------------------------------------------------------
+Dossier: "e5"          Nombre de fichiers: 1          Taille des fichiers: 180 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e7
+2021-09-01 16-54-49	A---R---	110 	82939234c1352f011da86be23f3fdd6e743347
+----------------------------------------------------------------------------------------------------
+Dossier: "e7"          Nombre de fichiers: 1          Taille des fichiers: 110 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e8
+2021-09-02 18-28-27	A---R---	612 	ad799754a39b3e5b08113fe8ebbb773849ac56
+----------------------------------------------------------------------------------------------------
+Dossier: "e8"          Nombre de fichiers: 1          Taille des fichiers: 612 
+
+        C:\Users\marcb\siteTest_02\.git\objects\e9
+2021-09-02 18-28-27	A---R---	762 	7c54a600f203d12ddf611ba089b9e96e61f95c
+----------------------------------------------------------------------------------------------------
+Dossier: "e9"          Nombre de fichiers: 1          Taille des fichiers: 762 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ea
+2021-09-01 16-54-49	A---R---	5 915 	7a96cc847d52455b4dc80342b8fb3c07eb45b1
+----------------------------------------------------------------------------------------------------
+Dossier: "ea"          Nombre de fichiers: 1          Taille des fichiers: 5 915 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ec
+2021-09-01 16-54-49	A---R---	293 	4e42155e2b0ff67edd0f039210481b1d897584
+----------------------------------------------------------------------------------------------------
+Dossier: "ec"          Nombre de fichiers: 1          Taille des fichiers: 293 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ef
+2021-09-01 16-54-49	A---R---	507 	c8b6a7b286494aa6f4604f71c1e2fe7f03d7d3
+2021-08-25 15-09-11	A---R---	54 	e32ca4f54e2565f9ea49d4a63ec787eedaafec
+----------------------------------------------------------------------------------------------------
+Dossier: "ef"          Nombre de fichiers: 2          Taille des fichiers: 561 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f0
+2021-08-25 16-27-56	A---R---	163 031 	46dbad21c6bd482aa86ddc8b4b4afdbc783889
+2021-08-25 16-27-55	A---R---	517 	67a2486aea23ab65281c446e92380f74acbe67
+2021-09-01 16-54-49	A---R---	15 674 	81ef220ad4f0cb1aea891a0336adcf0ce89b97
+----------------------------------------------------------------------------------------------------
+Dossier: "f0"          Nombre de fichiers: 3          Taille des fichiers: 179 222 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f1
+2021-08-25 16-27-56	A---R---	44 803 	1922f21f6d69ddeb725d6f6fc4aa294506db45
+----------------------------------------------------------------------------------------------------
+Dossier: "f1"          Nombre de fichiers: 1          Taille des fichiers: 44 803 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f2
+2021-09-01 16-54-49	A---R---	5 453 	2aef0cbdf497c5bde5d56ca62e5b9a5bf404e7
+2021-09-01 17-36-55	A---R---	213 	8a0f0325ba06003d9498741f365a9a896f3a7c
+----------------------------------------------------------------------------------------------------
+Dossier: "f2"          Nombre de fichiers: 2          Taille des fichiers: 5 666 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f3
+2021-08-25 16-27-56	A---R---	587 760 	a9e76339c12ea6c40262a4aae61fff0c89841a
+----------------------------------------------------------------------------------------------------
+Dossier: "f3"          Nombre de fichiers: 1          Taille des fichiers: 587 760 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f4
+2021-09-02 18-29-27	A---R---	89 	3ac6db9d54c467d1e8e0235cbf61530a0d4aaa
+2021-09-02 18-28-27	A---R---	499 	8951f5dcedfb47a838de6a78bc6a9679094461
+2021-08-25 16-27-56	A---R---	1 197 130 	8e106b2a9019ee6f02165019fbc20a22d799e7
+----------------------------------------------------------------------------------------------------
+Dossier: "f4"          Nombre de fichiers: 3          Taille des fichiers: 1 197 718 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f5
+2021-09-01 16-24-29	A---R---	49 	4466a63d3ce3ca572b88324b4f7759fb260c36
+2021-09-01 19-01-10	A---R---	3 624 	6be5c43432ba7c16312ad3e73056ff27f23cca
+2021-09-01 16-54-49	A---R---	5 549 	d1374fab397d3d1941476e7e2995f3d16ddb17
+----------------------------------------------------------------------------------------------------
+Dossier: "f5"          Nombre de fichiers: 3          Taille des fichiers: 9 222 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f7
+2021-09-01 16-23-58	A---R---	247 	17deb23ef244fc041b8f0840a1d48bc7b15816
+2021-09-01 17-36-32	A---R---	3 858 	86b50961a269619b3cb428d980eb23e67bb78d
+2021-09-01 16-23-58	A---R---	550 	c12eeeb627010fff465b5259a7a125da6b2ba2
+----------------------------------------------------------------------------------------------------
+Dossier: "f7"          Nombre de fichiers: 3          Taille des fichiers: 4 655 
+
+        C:\Users\marcb\siteTest_02\.git\objects\f8
+2021-08-25 16-27-55	A---R---	3 343 	254d97a08c5c93bdb5431ab0600b066016bcb1
+----------------------------------------------------------------------------------------------------
+Dossier: "f8"          Nombre de fichiers: 1          Taille des fichiers: 3 343 
+
+        C:\Users\marcb\siteTest_02\.git\objects\fb
+2021-09-01 16-55-13	A---R---	115 	e514838fa0c9450ad565fd528e1096f6ae5d6b
+----------------------------------------------------------------------------------------------------
+Dossier: "fb"          Nombre de fichiers: 1          Taille des fichiers: 115 
+
+        C:\Users\marcb\siteTest_02\.git\objects\fc
+2021-08-25 16-27-56	A---R---	13 510 	3d8dcc4d902b22ac933274bed4260242513485
+2021-09-01 16-24-29	A---R---	130 	e0f6b284edc03c591dfe20b8356622d56a5f2f
+----------------------------------------------------------------------------------------------------
+Dossier: "fc"          Nombre de fichiers: 2          Taille des fichiers: 13 640 
+
+        C:\Users\marcb\siteTest_02\.git\objects\fd
+2021-09-01 16-54-49	A---R---	167 	5877954eef3fad39e48b83a4e927b1448aa012
+2021-08-25 16-27-57	A---R---	46 608 	71a0df509f3e610f38b2617bc592341f6834ca
+2021-09-01 16-54-49	A---R---	37 813 	b988977b3b55f7db9f283ab8ae26b1f0f5fd88
+----------------------------------------------------------------------------------------------------
+Dossier: "fd"          Nombre de fichiers: 3          Taille des fichiers: 84 588 
+
+        C:\Users\marcb\siteTest_02\.git\objects\fe
+2021-09-01 16-54-49	A---R---	406 751 	0a80666ada9f47d10947bd6076938c57bdeb96
+----------------------------------------------------------------------------------------------------
+Dossier: "fe"          Nombre de fichiers: 1          Taille des fichiers: 406 751 
+
+        C:\Users\marcb\siteTest_02\.git\objects\ff
+2021-09-01 16-23-58	A---R---	4 998 	1f4a0dc13ddcb3e4457ef2e77717c77cdfeb36
+2021-08-25 16-27-55	A---R---	510 	a02054be3b410edf8232be1636b2e93badc8a9
+----------------------------------------------------------------------------------------------------
+Dossier: "ff"          Nombre de fichiers: 2          Taille des fichiers: 5 508 
+
+        C:\Users\marcb\siteTest_02\.git\objects\info
+        C:\Users\marcb\siteTest_02\.git\objects\pack
+        C:\Users\marcb\siteTest_02\.git\refs
+        C:\Users\marcb\siteTest_02\.git\refs\heads
+2021-09-02 18-29-27	A-------	41 	main
+----------------------------------------------------------------------------------------------------
+Dossier: "heads"          Nombre de fichiers: 1          Taille des fichiers: 41 
+
+        C:\Users\marcb\siteTest_02\.git\refs\remotes
+        C:\Users\marcb\siteTest_02\.git\refs\remotes\origin
+2021-08-25 16-30-32	A-------	41 	dev
+2021-09-01 19-02-45	A-------	41 	main
+----------------------------------------------------------------------------------------------------
+Dossier: "origin"          Nombre de fichiers: 2          Taille des fichiers: 82 
+
+        C:\Users\marcb\siteTest_02\.git\refs\tags
+        C:\Users\marcb\siteTest_02\archetypes
+2021-08-25 16-57-43	A-------	86 	org_default.md
+----------------------------------------------------------------------------------------------------
+Dossier: "archetypes"          Nombre de fichiers: 1          Taille des fichiers: 86 
+
+        C:\Users\marcb\siteTest_02\content
+2021-09-02 18-11-36	A-------	1 190 	acceuil.md
+2021-09-02 18-19-42	A-------	139 	_index.md
+----------------------------------------------------------------------------------------------------
+Dossier: "content"          Nombre de fichiers: 2          Taille des fichiers: 1 329 
+
+        C:\Users\marcb\siteTest_02\content\avantages
+2021-09-02 16-05-26	A-------	1 294 	01_AE.md
+2021-09-02 16-03-47	A-------	1 715 	02_CESU.md
+2021-09-02 16-04-03	A-------	2 076 	03_TVA.md
+2021-09-02 16-02-33	A-------	1 964 	04_SAP.md
+2021-09-02 15-14-25	A-------	131 	_index.md
+----------------------------------------------------------------------------------------------------
+Dossier: "avantages"          Nombre de fichiers: 5          Taille des fichiers: 7 180 
+
+        C:\Users\marcb\siteTest_02\content\bienvenue
+2021-09-02 18-07-40	A-------	1 197 	acceuil-bis.md
+----------------------------------------------------------------------------------------------------
+Dossier: "bienvenue"          Nombre de fichiers: 1          Taille des fichiers: 1 197 
+
+        C:\Users\marcb\siteTest_02\content\maintenance
+2021-09-02 15-43-59	A-------	780 	InfoMaintenance.md
+----------------------------------------------------------------------------------------------------
+Dossier: "maintenance"          Nombre de fichiers: 1          Taille des fichiers: 780 
+
+        C:\Users\marcb\siteTest_02\content\pages
+2021-09-02 15-42-41	A-------	1 201 	MesEngagements.md
+2021-09-02 12-00-18	A-------	1 919 	MesTarifs.md
+2021-09-02 12-00-09	A-------	1 779 	Presentation.md
+2021-09-02 15-14-18	A-------	119 	_index.md
+----------------------------------------------------------------------------------------------------
+Dossier: "pages"          Nombre de fichiers: 4          Taille des fichiers: 5 018 
+
+        C:\Users\marcb\siteTest_02\content\services
+2021-09-02 16-10-02	A-------	1 000 	Assister.md
+2021-09-02 16-11-18	A-------	942 	Conseiller.md
+2021-09-02 16-10-16	A-------	1 406 	Depanner.md
+2021-09-02 16-10-10	A-------	1 633 	Former.md
+2021-09-02 16-10-03	A-------	1 273 	Installer.md
+2021-09-02 18-15-10	A-------	139 	_index.md
+----------------------------------------------------------------------------------------------------
+Dossier: "services"          Nombre de fichiers: 6          Taille des fichiers: 6 393 
+
+        C:\Users\marcb\siteTest_02\data
+        C:\Users\marcb\siteTest_02\layouts
+2021-09-02 18-27-22	A-------	15 986 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "layouts"          Nombre de fichiers: 1          Taille des fichiers: 15 986 
+
+        C:\Users\marcb\siteTest_02\layouts\partials
+2021-09-02 15-50-05	A-------	437 	breadcrumb.html
+----------------------------------------------------------------------------------------------------
+Dossier: "partials"          Nombre de fichiers: 1          Taille des fichiers: 437 
+
+        C:\Users\marcb\siteTest_02\public
+2021-09-02 18-29-54	A-------	7 317 	404.html
+2021-09-02 18-29-54	A-------	15 986 	index.html
+2021-09-02 18-29-54	A-------	5 428 	index.xml
+2021-09-02 18-29-54	A-------	1 501 	sitemap.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "public"          Nombre de fichiers: 4          Taille des fichiers: 30 232 
+
+        C:\Users\marcb\siteTest_02\public\acceuil
+2021-09-02 18-29-53	A-------	15 273 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "acceuil"          Nombre de fichiers: 1          Taille des fichiers: 15 273 
+
+        C:\Users\marcb\siteTest_02\public\archives
+2021-09-02 18-29-54	A-------	12 565 	index.html
+2021-09-02 18-29-54	A-------	459 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "archives"          Nombre de fichiers: 2          Taille des fichiers: 13 024 
+
+        C:\Users\marcb\siteTest_02\public\avantages
+2021-09-02 18-29-54	A-------	15 181 	index.html
+2021-09-02 18-29-54	A-------	1 993 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "avantages"          Nombre de fichiers: 2          Taille des fichiers: 17 174 
+
+        C:\Users\marcb\siteTest_02\public\avantages\01_ae
+2021-09-02 18-29-53	A-------	19 024 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "01_ae"          Nombre de fichiers: 1          Taille des fichiers: 19 024 
+
+        C:\Users\marcb\siteTest_02\public\avantages\02_cesu
+2021-09-02 18-29-53	A-------	18 930 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "02_cesu"          Nombre de fichiers: 1          Taille des fichiers: 18 930 
+
+        C:\Users\marcb\siteTest_02\public\avantages\03_tva
+2021-09-02 18-29-53	A-------	19 198 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "03_tva"          Nombre de fichiers: 1          Taille des fichiers: 19 198 
+
+        C:\Users\marcb\siteTest_02\public\avantages\04_sap
+2021-09-02 18-29-53	A-------	19 000 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "04_sap"          Nombre de fichiers: 1          Taille des fichiers: 19 000 
+
+        C:\Users\marcb\siteTest_02\public\avantages\page
+        C:\Users\marcb\siteTest_02\public\avantages\page\1
+2021-09-02 18-29-54	A-------	229 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "1"          Nombre de fichiers: 1          Taille des fichiers: 229 
+
+        C:\Users\marcb\siteTest_02\public\bienvenue
+2021-09-02 18-29-54	A-------	12 030 	index.html
+2021-09-02 18-29-54	A-------	712 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "bienvenue"          Nombre de fichiers: 2          Taille des fichiers: 12 742 
+
+        C:\Users\marcb\siteTest_02\public\bienvenue\acceuil-bis
+2021-09-02 18-29-53	A-------	15 416 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "acceuil-bis"          Nombre de fichiers: 1          Taille des fichiers: 15 416 
+
+        C:\Users\marcb\siteTest_02\public\bienvenue\page
+        C:\Users\marcb\siteTest_02\public\bienvenue\page\1
+2021-09-02 18-29-54	A-------	229 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "1"          Nombre de fichiers: 1          Taille des fichiers: 229 
+
+        C:\Users\marcb\siteTest_02\public\categories
+2021-09-02 18-29-54	A-------	11 837 	index.html
+2021-09-02 18-29-54	A-------	467 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "categories"          Nombre de fichiers: 2          Taille des fichiers: 12 304 
+
+        C:\Users\marcb\siteTest_02\public\css
+2021-08-15 08-46-25	A-------	96 921 	style-x4v5aep1xln8tw4u8b4utrzzm45rcnnq6emr4myqn5eka2yri56y1t7q.min.css
+----------------------------------------------------------------------------------------------------
+Dossier: "css"          Nombre de fichiers: 1          Taille des fichiers: 96 921 
+
+        C:\Users\marcb\siteTest_02\public\images
+2021-08-25 17-33-57	A-------	267 258 	AutoEntrepreneur_02.png
+2021-08-25 17-24-13	A-------	21 113 	AVBG-Logo-07.png
+2021-08-25 17-25-38	A-------	8 867 	AVBG_02_110x110.jpg
+2021-08-25 17-35-07	A-------	775 	Blanc.jpg
+2021-08-25 17-40-57	A-------	1 179 546 	certificat.png
+2021-08-25 17-35-31	A-------	158 122 	Cesu_01.png
+2021-08-15 08-46-25	A-------	343 566 	cover-v1.2.0.jpg
+2021-08-15 08-46-25	A-------	248 594 	cover.jpg
+2021-08-25 17-39-49	A-------	1 100 606 	cover.png
+2021-08-25 17-41-04	A-------	59 178 	engagements.jpg
+2021-08-25 17-41-12	A-------	406 881 	juste-prix.png
+2021-08-25 17-41-25	A-------	6 043 	logo-certificat.png
+2021-08-25 17-41-41	A-------	2 184 	logo-retour-arriere_50.png
+2021-08-25 17-36-24	A-------	37 067 	Logo_AE_300.png
+2021-08-25 17-36-30	A-------	37 994 	Logo_CESU_300.png
+2021-08-25 17-36-09	A-------	44 285 	Logo_SAP_300.png
+2021-08-25 17-39-26	A-------	25 092 	Logo_TVA_300.png
+2020-06-23 19-54-32	A-------	3 667 756 	Moi.jpg
+2021-08-25 17-41-57	A-------	304 346 	pcMarc-2.png
+2021-08-25 17-42-07	A-------	287 758 	pcMarc-3.png
+2021-08-25 17-42-15	A-------	491 112 	pcMarcNew-2.png
+2021-08-25 17-39-13	A-------	732 221 	Sap04.PNG
+2021-08-25 17-39-02	A-------	63 569 	TVA.jpg
+2021-08-25 17-38-54	A-------	31 477 	VousAssister_300.png
+2021-08-25 17-38-46	A-------	31 329 	VousConseiller_300.png
+2021-08-25 18-13-59	A-------	33 499 	VousDepanner_300.png
+2021-08-25 17-38-37	A-------	50 152 	VousFormer_300.png
+2021-08-25 17-38-20	A-------	30 140 	VousInstaller_300.png
+2021-08-25 17-38-29	A-------	12 123 120 	ZoneDeplacement.png
+----------------------------------------------------------------------------------------------------
+Dossier: "images"          Nombre de fichiers: 29          Taille des fichiers: 21 793 650 
+
+        C:\Users\marcb\siteTest_02\public\js
+2021-08-15 08-46-25	A-------	17 052 	script-8lglxdix2nqhalxxm2bujhkcc8cctdrd5o5axonwhfzx2zqrer5facyn8.min.js
+----------------------------------------------------------------------------------------------------
+Dossier: "js"          Nombre de fichiers: 1          Taille des fichiers: 17 052 
+
+        C:\Users\marcb\siteTest_02\public\maintenance
+2021-09-02 18-29-54	A-------	12 276 	index.html
+2021-09-02 18-29-54	A-------	819 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "maintenance"          Nombre de fichiers: 2          Taille des fichiers: 13 095 
+
+        C:\Users\marcb\siteTest_02\public\maintenance\infomaintenance
+2021-09-02 18-29-53	A-------	17 536 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "infomaintenance"          Nombre de fichiers: 1          Taille des fichiers: 17 536 
+
+        C:\Users\marcb\siteTest_02\public\maintenance\page
+        C:\Users\marcb\siteTest_02\public\maintenance\page\1
+2021-09-02 18-29-54	A-------	235 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "1"          Nombre de fichiers: 1          Taille des fichiers: 235 
+
+        C:\Users\marcb\siteTest_02\public\pages
+2021-09-02 18-29-54	A-------	13 998 	index.html
+2021-09-02 18-29-54	A-------	1 357 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "pages"          Nombre de fichiers: 2          Taille des fichiers: 15 355 
+
+        C:\Users\marcb\siteTest_02\public\pages\mesengagements
+2021-09-02 18-29-53	A-------	18 025 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "mesengagements"          Nombre de fichiers: 1          Taille des fichiers: 18 025 
+
+        C:\Users\marcb\siteTest_02\public\pages\mestarifs
+2021-09-02 18-29-54	A-------	19 008 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "mestarifs"          Nombre de fichiers: 1          Taille des fichiers: 19 008 
+
+        C:\Users\marcb\siteTest_02\public\pages\page
+        C:\Users\marcb\siteTest_02\public\pages\page\1
+2021-09-02 18-29-54	A-------	217 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "1"          Nombre de fichiers: 1          Taille des fichiers: 217 
+
+        C:\Users\marcb\siteTest_02\public\pages\presentation
+2021-09-02 18-29-54	A-------	19 203 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "presentation"          Nombre de fichiers: 1          Taille des fichiers: 19 203 
+
+        C:\Users\marcb\siteTest_02\public\services
+2021-09-02 18-29-54	A-------	16 273 	index.html
+2021-09-02 18-29-54	A-------	2 328 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "services"          Nombre de fichiers: 2          Taille des fichiers: 18 601 
+
+        C:\Users\marcb\siteTest_02\public\services\assister
+2021-09-02 18-29-54	A-------	18 161 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "assister"          Nombre de fichiers: 1          Taille des fichiers: 18 161 
+
+        C:\Users\marcb\siteTest_02\public\services\conseiller
+2021-09-02 18-29-54	A-------	17 999 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "conseiller"          Nombre de fichiers: 1          Taille des fichiers: 17 999 
+
+        C:\Users\marcb\siteTest_02\public\services\depanner
+2021-09-02 18-29-54	A-------	18 459 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "depanner"          Nombre de fichiers: 1          Taille des fichiers: 18 459 
+
+        C:\Users\marcb\siteTest_02\public\services\former
+2021-09-02 18-29-54	A-------	18 972 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "former"          Nombre de fichiers: 1          Taille des fichiers: 18 972 
+
+        C:\Users\marcb\siteTest_02\public\services\installer
+2021-09-02 18-29-54	A-------	18 485 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "installer"          Nombre de fichiers: 1          Taille des fichiers: 18 485 
+
+        C:\Users\marcb\siteTest_02\public\services\page
+        C:\Users\marcb\siteTest_02\public\services\page\1
+2021-09-02 18-29-54	A-------	226 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "1"          Nombre de fichiers: 1          Taille des fichiers: 226 
+
+        C:\Users\marcb\siteTest_02\public\tags
+2021-09-02 18-29-54	A-------	16 967 	index.html
+2021-09-02 18-29-54	A-------	657 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "tags"          Nombre de fichiers: 2          Taille des fichiers: 17 624 
+
+        C:\Users\marcb\siteTest_02\public\tags\tags
+2021-09-02 18-29-54	A-------	16 323 	index.html
+2021-09-02 18-29-54	A-------	5 375 	index.xml
+----------------------------------------------------------------------------------------------------
+Dossier: "tags"          Nombre de fichiers: 2          Taille des fichiers: 21 698 
+
+        C:\Users\marcb\siteTest_02\public\tags\tags\page
+        C:\Users\marcb\siteTest_02\public\tags\tags\page\1
+2021-09-02 18-29-54	A-------	229 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "1"          Nombre de fichiers: 1          Taille des fichiers: 229 
+
+        C:\Users\marcb\siteTest_02\resources
+        C:\Users\marcb\siteTest_02\resources\_gen
+        C:\Users\marcb\siteTest_02\resources\_gen\assets
+        C:\Users\marcb\siteTest_02\resources\_gen\images
+        C:\Users\marcb\siteTest_02\static
+        C:\Users\marcb\siteTest_02\static\images
+2021-08-25 17-33-57	A-------	267 258 	AutoEntrepreneur_02.png
+2021-08-25 17-24-13	A-------	21 113 	AVBG-Logo-07.png
+2021-08-25 17-25-38	A-------	8 867 	AVBG_02_110x110.jpg
+2021-08-25 17-35-07	A-------	775 	Blanc.jpg
+2021-08-25 17-40-57	A-------	1 179 546 	certificat.png
+2021-08-25 17-35-31	A-------	158 122 	Cesu_01.png
+2021-08-25 17-39-49	A-------	1 100 606 	cover.png
+2021-08-25 17-41-04	A-------	59 178 	engagements.jpg
+2021-08-25 17-41-12	A-------	406 881 	juste-prix.png
+2021-08-25 17-41-25	A-------	6 043 	logo-certificat.png
+2021-08-25 17-41-41	A-------	2 184 	logo-retour-arriere_50.png
+2021-08-25 17-36-24	A-------	37 067 	Logo_AE_300.png
+2021-08-25 17-36-30	A-------	37 994 	Logo_CESU_300.png
+2021-08-25 17-36-09	A-------	44 285 	Logo_SAP_300.png
+2021-08-25 17-39-26	A-------	25 092 	Logo_TVA_300.png
+2020-06-23 19-54-32	A-------	3 667 756 	Moi.jpg
+2021-08-25 17-41-57	A-------	304 346 	pcMarc-2.png
+2021-08-25 17-42-07	A-------	287 758 	pcMarc-3.png
+2021-08-25 17-42-15	A-------	491 112 	pcMarcNew-2.png
+2021-08-25 17-39-13	A-------	732 221 	Sap04.PNG
+2021-08-25 17-39-02	A-------	63 569 	TVA.jpg
+2021-08-25 17-38-54	A-------	31 477 	VousAssister_300.png
+2021-08-25 17-38-46	A-------	31 329 	VousConseiller_300.png
+2021-08-25 18-13-59	A-------	33 499 	VousDepanner_300.png
+2021-08-25 17-38-37	A-------	50 152 	VousFormer_300.png
+2021-08-25 17-38-20	A-------	30 140 	VousInstaller_300.png
+2021-08-25 17-38-29	A-------	12 123 120 	ZoneDeplacement.png
+----------------------------------------------------------------------------------------------------
+Dossier: "images"          Nombre de fichiers: 27          Taille des fichiers: 21 201 490 
+
+        C:\Users\marcb\siteTest_02\themes
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak
+2021-08-15 08-46-25	A-------	65 	.eslintignore
+2021-08-15 08-46-25	A-------	840 	.eslintrc
+2021-08-15 08-46-25	A-------	154 	.gitignore
+2021-08-15 08-46-25	A-------	25 350 	CHANGELOG.md
+2021-08-15 08-46-25	A-------	1 506 	Gruntfile.js
+2021-08-15 08-46-25	A-------	35 141 	LICENSE
+2021-08-15 08-46-25	A-------	218 028 	package-lock.json
+2021-08-15 08-46-25	A-------	1 614 	package.json
+2021-08-15 08-46-25	A-------	5 835 	README.md
+2021-08-15 08-46-25	A-------	826 431 	showcase.png
+2021-08-15 08-46-25	A-------	785 	theme.toml
+----------------------------------------------------------------------------------------------------
+Dossier: "Tranquilpeak"          Nombre de fichiers: 11          Taille des fichiers: 1 115 749 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\.github
+2021-08-15 08-46-25	A-------	858 	CONTRIBUTING.md
+2021-08-15 08-46-25	A-------	676 	ISSUE_TEMPLATE.md
+2021-08-15 08-46-25	A-------	802 	stale.yml
+----------------------------------------------------------------------------------------------------
+Dossier: ".github"          Nombre de fichiers: 3          Taille des fichiers: 2 336 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\archetypes
+2021-08-15 08-46-25	A-------	268 	page.md
+2021-08-15 08-46-25	A-------	214 	post.md
+----------------------------------------------------------------------------------------------------
+Dossier: "archetypes"          Nombre de fichiers: 2          Taille des fichiers: 482 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\docs
+2021-08-15 08-46-25	A-------	8 864 	developer.md
+2021-08-15 08-46-25	A-------	36 826 	user.md
+----------------------------------------------------------------------------------------------------
+Dossier: "docs"          Nombre de fichiers: 2          Taille des fichiers: 45 690 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\docs\img
+2021-08-15 08-46-25	A-------	338 702 	without_hierarchical_categories.png
+2021-08-15 08-46-25	A-------	335 027 	with_hierarchical_categories.png
+----------------------------------------------------------------------------------------------------
+Dossier: "img"          Nombre de fichiers: 2          Taille des fichiers: 673 729 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\exampleSite
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\exampleSite\content
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\i18n
+2021-08-15 08-46-25	A-------	3 732 	de-de.yaml
+2021-08-15 08-46-25	A-------	3 622 	en-us.yaml
+2021-08-15 08-46-25	A-------	3 828 	es-es.yaml
+2021-08-15 08-46-25	A-------	3 690 	fr-fr.yaml
+2021-08-15 08-46-25	A-------	3 713 	it-it.yaml
+2021-08-15 08-46-25	A-------	4 052 	ja.yaml
+2021-08-15 08-46-25	A-------	3 698 	nl-nl.yaml
+2021-08-15 08-46-25	A-------	3 820 	pl.yaml
+2021-08-15 08-46-25	A-------	4 004 	pt-br.yaml
+2021-08-15 08-46-25	A-------	4 289 	ru.yaml
+2021-08-15 08-46-25	A-------	3 716 	sv-se.yaml
+2021-08-15 08-46-25	A-------	3 907 	vi.yaml
+2021-08-15 08-46-25	A-------	3 644 	zh-cn.yaml
+2021-08-15 08-46-25	A-------	3 654 	zh-tw.yaml
+----------------------------------------------------------------------------------------------------
+Dossier: "i18n"          Nombre de fichiers: 14          Taille des fichiers: 53 369 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\images
+2021-08-15 08-46-25	A-------	330 151 	screenshot.png
+2021-08-15 08-46-25	A-------	120 906 	tn.png
+----------------------------------------------------------------------------------------------------
+Dossier: "images"          Nombre de fichiers: 2          Taille des fichiers: 451 057 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts
+2021-08-15 08-46-25	A-------	268 	404.html
+2021-08-15 08-46-25	A-------	900 	index.html
+----------------------------------------------------------------------------------------------------
+Dossier: "layouts"          Nombre de fichiers: 2          Taille des fichiers: 1 168 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts\partials
+2021-08-20 11-05-09	A-------	858 	about.html
+2021-08-15 08-46-25	A-------	1 251 	archive-post.html
+2021-08-15 08-46-25	A-------	464 	cover.html
+2021-08-15 08-46-25	A-------	226 	foot.html
+2021-08-15 08-46-25	A-------	341 	footer.html
+2021-08-15 08-46-25	A-------	0 	foot_end.html
+2021-08-15 08-46-25	A-------	0 	foot_start.html
+2021-08-15 08-46-25	A-------	3 625 	head.html
+2021-08-15 08-46-25	A-------	1 461 	header.html
+2021-08-15 08-46-25	A-------	0 	head_end.html
+2021-08-15 08-46-25	A-------	0 	head_start.html
+2021-08-15 08-46-25	A-------	788 	menu.html
+2021-08-15 08-46-25	A-------	4 030 	meta.html
+2021-08-15 08-46-25	A-------	1 872 	pagination.html
+2021-08-15 08-46-25	A-------	1 703 	schema.html
+2021-08-15 08-46-25	A-------	3 485 	script.html
+2021-08-15 08-46-25	A-------	2 530 	search.html
+2021-08-20 12-05-13	A-------	1 139 	sidebar.html
+----------------------------------------------------------------------------------------------------
+Dossier: "partials"          Nombre de fichiers: 18          Taille des fichiers: 23 773 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts\partials\internal
+2021-08-15 08-46-25	A-------	545 	date.html
+2021-08-15 08-46-25	A-------	710 	recursive-categories-1.html
+2021-08-15 08-46-25	A-------	710 	recursive-categories-2.html
+2021-08-15 08-46-25	A-------	1 219 	recursive-categories-full-1.html
+2021-08-15 08-46-25	A-------	1 219 	recursive-categories-full-2.html
+----------------------------------------------------------------------------------------------------
+Dossier: "internal"          Nombre de fichiers: 5          Taille des fichiers: 4 403 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts\partials\post
+2021-08-15 08-46-25	A-------	4 534 	actions.html
+2021-08-15 08-46-25	A-------	373 	category.html
+2021-08-15 08-46-25	A-------	2 625 	comment.html
+2021-08-15 08-46-25	A-------	1 534 	gallery.html
+2021-08-15 08-46-25	A-------	521 	header-cover.html
+2021-08-15 08-46-25	A-------	499 	header.html
+2021-08-15 08-46-25	A-------	333 	meta.html
+2021-08-15 08-46-25	A-------	713 	share-options.html
+2021-08-15 08-46-25	A-------	145 	tag.html
+----------------------------------------------------------------------------------------------------
+Dossier: "post"          Nombre de fichiers: 9          Taille des fichiers: 11 277 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts\shortcodes
+2021-08-15 08-46-25	A-------	99 	alert.html
+2021-08-15 08-46-25	A-------	460 	blockquote.html
+2021-08-15 08-46-25	A-------	1 642 	codeblock.html
+2021-07-14 15-29-08	A-------	1 224 	form-contact.html
+2021-08-15 08-46-25	A-------	61 	hl-text.html
+2021-08-15 08-46-25	A-------	1 669 	image.html
+2021-08-15 08-46-25	A-------	171 	jsfiddle.html
+2021-08-15 08-46-25	A-------	78 	pullquote.html
+2021-08-15 08-46-25	A-------	2 398 	tabbed-codeblock.html
+2021-08-15 08-46-25	A-------	82 	toc.html
+2021-08-15 08-46-25	A-------	255 	wide-image.html
+----------------------------------------------------------------------------------------------------
+Dossier: "shortcodes"          Nombre de fichiers: 11          Taille des fichiers: 8 139 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts\taxonomy
+2021-08-15 08-46-25	A-------	877 	archive.terms.html
+2021-08-15 08-46-25	A-------	1 555 	category.html
+2021-08-15 08-46-25	A-------	6 427 	category.terms.html
+2021-08-15 08-46-25	A-------	1 535 	tag.html
+2021-08-15 08-46-25	A-------	2 460 	tag.terms.html
+----------------------------------------------------------------------------------------------------
+Dossier: "taxonomy"          Nombre de fichiers: 5          Taille des fichiers: 12 854 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\layouts\_default
+2021-08-15 08-46-25	A-------	946 	list.html
+2021-08-15 08-46-25	A-------	1 996 	single.html
+2021-08-15 08-46-25	A-------	3 520 	summary.html
+----------------------------------------------------------------------------------------------------
+Dossier: "_default"          Nombre de fichiers: 3          Taille des fichiers: 6 462 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\images
+2021-08-15 08-46-25	A-------	343 566 	cover-v1.2.0.jpg
+2021-08-15 08-46-25	A-------	248 594 	cover.jpg
+----------------------------------------------------------------------------------------------------
+Dossier: "images"          Nombre de fichiers: 2          Taille des fichiers: 592 160 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\js
+2021-08-15 08-46-25	A-------	150 	.eslintrc.json
+2021-08-15 08-46-25	A-------	3 497 	about.js
+2021-08-15 08-46-25	A-------	4 179 	archives-filter.js
+2021-08-15 08-46-25	A-------	5 286 	categories-filter.js
+2021-08-15 08-46-25	A-------	1 536 	codeblock-resizer.js
+2021-08-15 08-46-25	A-------	754 	fancybox.js
+2021-08-15 08-46-25	A-------	1 684 	header.js
+2021-08-15 08-46-25	A-------	2 845 	image-gallery.js
+2021-08-15 08-46-25	A-------	2 227 	post-bottom-bar.js
+2021-08-15 08-46-25	A-------	5 792 	search-modal.js
+2021-08-15 08-46-25	A-------	2 454 	share-options.js
+2021-08-20 11-58-44	A-------	6 513 	sidebar.js
+2021-08-15 08-46-25	A-------	757 	smartresize.js
+2021-08-15 08-46-25	A-------	1 102 	tabbed-codeblocks.js
+2021-08-15 08-46-25	A-------	3 529 	tags-filter.js
+----------------------------------------------------------------------------------------------------
+Dossier: "js"          Nombre de fichiers: 15          Taille des fichiers: 42 305 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss
+2021-08-15 08-46-25	A-------	1 536 	tranquilpeak.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "scss"          Nombre de fichiers: 1          Taille des fichiers: 1 536 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\base
+2021-08-15 08-46-25	A-------	4 055 	_base.scss
+2021-08-15 08-46-25	A-------	217 	_custom.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "base"          Nombre de fichiers: 2          Taille des fichiers: 4 272 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\components
+2021-08-15 08-46-25	A-------	1 865 	_alert.scss
+2021-08-15 08-46-25	A-------	875 	_archive.scss
+2021-08-15 08-46-25	A-------	213 	_box.scss
+2021-08-15 08-46-25	A-------	1 146 	_button.scss
+2021-08-15 08-46-25	A-------	303 	_caption.scss
+2021-08-15 08-46-25	A-------	2 767 	_code.scss
+2021-08-15 08-46-25	A-------	448 	_fancybox.scss
+2021-08-15 08-46-25	A-------	3 349 	_figure.scss
+2021-08-15 08-46-25	A-------	410 	_form.scss
+2021-08-15 08-46-25	A-------	511 	_hide.scss
+2021-08-15 08-46-25	A-------	1 062 	_highlight-text.scss
+2021-08-15 08-46-25	A-------	274 	_icon.scss
+2021-08-15 08-46-25	A-------	2 672 	_image-gallery.scss
+2021-08-15 08-46-25	A-------	366 	_link.scss
+2021-08-15 08-46-25	A-------	255 	_main-content.scss
+2021-08-15 08-46-25	A-------	910 	_markdown.scss
+2021-08-15 08-46-25	A-------	395 	_media.scss
+2021-08-15 08-46-25	A-------	1 506 	_modal.scss
+2021-08-15 08-46-25	A-------	632 	_pagination.scss
+2021-08-15 08-46-25	A-------	2 722 	_post-actions.scss
+2021-08-15 08-46-25	A-------	6 990 	_post-header-cover.scss
+2021-08-15 08-46-25	A-------	5 286 	_post.scss
+2021-08-15 08-46-25	A-------	4 206 	_postShorten.scss
+2021-08-15 08-46-25	A-------	392 	_pullquote.scss
+2021-08-15 08-46-25	A-------	3 238 	_share-options-bar.scss
+2021-08-15 08-46-25	A-------	907 	_tag.scss
+2021-08-15 08-46-25	A-------	1 590 	_text.scss
+2021-08-15 08-46-25	A-------	5 408 	_tooltip.scss
+2021-08-15 08-46-25	A-------	431 	_video.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "components"          Nombre de fichiers: 29          Taille des fichiers: 51 129 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\layouts
+2021-08-24 12-02-40	A-------	3 207 	_about.scss
+2021-08-15 08-46-25	A-------	132 	_blog.scss
+2021-08-15 08-46-25	A-------	4 347 	_bottom-bar.scss
+2021-08-15 08-46-25	A-------	314 	_cover.scss
+2021-08-15 08-46-25	A-------	192 	_footer.scss
+2021-08-15 08-46-25	A-------	3 308 	_header.scss
+2021-08-15 08-46-25	A-------	3 909 	_main.scss
+2021-08-15 08-46-25	A-------	4 843 	_sidebar.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "layouts"          Nombre de fichiers: 8          Taille des fichiers: 20 252 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\pages
+2021-08-15 08-46-25	A-------	1 307 	_search.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "pages"          Nombre de fichiers: 1          Taille des fichiers: 1 307 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\themes
+2021-08-15 08-46-25	A-------	1 181 	_hljs-custom.scss
+2021-08-15 08-46-25	A-------	13 901 	_hljs-tranquilpeak.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "themes"          Nombre de fichiers: 2          Taille des fichiers: 15 082 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\utils
+2021-08-15 08-46-25	A-------	1 961 	_fonts.scss
+2021-08-15 08-46-25	A-------	7 918 	_variables.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "utils"          Nombre de fichiers: 2          Taille des fichiers: 9 879 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\src\scss\utils\mixins
+2021-08-15 08-46-25	A-------	2 608 	_bottom-bar.scss
+2021-08-15 08-46-25	A-------	631 	_button.scss
+2021-08-15 08-46-25	A-------	692 	_category.scss
+2021-08-15 08-46-25	A-------	436 	_figure.scss
+2021-08-15 08-46-25	A-------	475 	_form.scss
+2021-08-15 08-46-25	A-------	2 002 	_header.scss
+2021-08-15 08-46-25	A-------	1 503 	_main.scss
+2021-08-15 08-46-25	A-------	219 	_opacity.scss
+2021-08-15 08-46-25	A-------	1 854 	_post-header-cover.scss
+2021-08-15 08-46-25	A-------	359 	_prefix.scss
+2021-08-15 08-46-25	A-------	783 	_share-options-bar.scss
+2021-08-15 08-46-25	A-------	6 458 	_sidebar.scss
+2021-08-15 08-46-25	A-------	671 	_tag.scss
+----------------------------------------------------------------------------------------------------
+Dossier: "mixins"          Nombre de fichiers: 13          Taille des fichiers: 18 691 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\static
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\static\css
+2021-08-15 08-46-25	A-------	96 921 	style-x4v5aep1xln8tw4u8b4utrzzm45rcnnq6emr4myqn5eka2yri56y1t7q.min.css
+----------------------------------------------------------------------------------------------------
+Dossier: "css"          Nombre de fichiers: 1          Taille des fichiers: 96 921 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\static\images
+2021-08-15 08-46-25	A-------	343 566 	cover-v1.2.0.jpg
+2021-08-15 08-46-25	A-------	248 594 	cover.jpg
+----------------------------------------------------------------------------------------------------
+Dossier: "images"          Nombre de fichiers: 2          Taille des fichiers: 592 160 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\static\js
+2021-08-15 08-46-25	A-------	17 052 	script-8lglxdix2nqhalxxm2bujhkcc8cctdrd5o5axonwhfzx2zqrer5facyn8.min.js
+----------------------------------------------------------------------------------------------------
+Dossier: "js"          Nombre de fichiers: 1          Taille des fichiers: 17 052 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\tasks
+2021-08-15 08-46-25	A-------	493 	pipeline.js
+----------------------------------------------------------------------------------------------------
+Dossier: "tasks"          Nombre de fichiers: 1          Taille des fichiers: 493 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\tasks\config
+2021-08-15 08-46-25	A-------	176 	clean.js
+2021-08-15 08-46-25	A-------	676 	concat.js
+2021-08-15 08-46-25	A-------	444 	cssmin.js
+2021-08-15 08-46-25	A-------	181 	exec.js
+2021-08-15 08-46-25	A-------	989 	replace.js
+2021-08-15 08-46-25	A-------	1 949 	sails-linker.js
+2021-08-15 08-46-25	A-------	394 	sass.js
+2021-08-15 08-46-25	A-------	357 	sync.js
+2021-08-15 08-46-25	A-------	549 	uglify.js
+2021-08-15 08-46-25	A-------	264 	watch.js
+----------------------------------------------------------------------------------------------------
+Dossier: "config"          Nombre de fichiers: 10          Taille des fichiers: 5 979 
+
+        C:\Users\marcb\siteTest_02\themes\Tranquilpeak\tasks\register
+2021-08-15 08-46-25	A-------	200 	build.js
+2021-08-15 08-46-25	A-------	249 	buildProd.js
+2021-08-15 08-46-25	A-------	163 	compileAssets.js
+2021-08-15 08-46-25	A-------	103 	default.js
+2021-08-15 08-46-25	A-------	95 	eslint.js
+2021-08-15 08-46-25	A-------	204 	linkAssets.js
+2021-08-15 08-46-25	A-------	209 	linkAssetsProd.js
+2021-08-15 08-46-25	A-------	180 	syncAssets.js
+----------------------------------------------------------------------------------------------------
+Dossier: "register"          Nombre de fichiers: 8          Taille des fichiers: 1 403 
+
+        C:\Users\marcb\siteTest_02\travail
+2021-08-18 15-12-21	A-------	3 533 170 	hugo-tranquilpeak-theme-master.zip
+----------------------------------------------------------------------------------------------------
+Dossier: "travail"          Nombre de fichiers: 1          Taille des fichiers: 3 533 170 
+
+        C:\Users\marcb\siteTest_02\travail\Images
+2021-08-25 17-52-43	A-------	18 527 	AutoEntrepreneur.jpg
+2021-08-25 17-51-48	A-------	718 909 	AutoEntrepreneur.xcf
+2021-08-25 17-54-12	A-------	46 282 	AutoEntrepreneur_00.jpg
+2021-08-25 18-10-39	A-------	57 793 	AutoEntrepreneur_01.svg
+2021-08-25 17-50-26	A-------	37 367 	AVBG_01.png
+2021-08-25 17-53-21	A-------	8 642 	AVBG_01_100x100.png
+2021-08-25 17-53-14	A-------	8 150 	AVBG_02_100x100.jpg
+2021-08-25 17-53-03	A-------	9 022 	AVBG_02_200x200.jpg
+2021-08-25 17-52-53	A-------	250 377 	AVBG_Img.jpg
+2021-08-25 18-01-15	A-------	164 685 	bg.png
+2021-08-25 18-01-37	A-------	505 735 	binaire_01.jpg
+2021-08-25 18-01-48	A-------	560 647 	binaire_02.jpg
+2021-08-25 17-57-42	A-------	2 804 146 	Binaire_04.png
+2021-08-25 17-57-49	A-------	3 901 974 	Binaire_05.png
+2021-08-25 17-57-55	A-------	2 284 778 	Binaire_06.png
+2021-08-25 17-58-04	A-------	1 214 410 	Binaire_07.png
+2021-08-25 18-01-55	A-------	299 009 	binaire_08.jpg
+2021-08-25 18-02-05	A-------	610 005 	binaire_09.jpg
+2021-08-25 18-09-43	A-------	1 972 912 	Certificat.xcf
+2021-08-25 17-58-11	A-------	138 383 	Cesu.png
+2021-08-25 18-02-23	A-------	47 568 	logo-retour-arriere.png
+2021-08-25 18-02-32	A-------	5 201 	logo-retour-arriere_100.png
+2021-08-25 17-58-20	A-------	40 558 	Logo_AE.png
+2021-08-25 17-59-19	A-------	806 297 	Logo_avantages.svg
+2021-08-25 17-58-31	A-------	37 172 	Logo_CESU.png
+2021-08-25 17-58-37	A-------	42 106 	Logo_SAP.png
+2021-08-25 17-58-43	A-------	26 168 	Logo_TVA.png
+2021-08-25 17-59-52	A-------	3 667 756 	Marc_BERGER.jpg
+2021-08-25 18-02-50	A-------	481 449 	pcMarcNew-1.png
+2021-08-25 18-02-57	A-------	469 257 	pcMarcNew.png
+2021-08-25 18-00-05	A-------	13 982 	SAP.jpg
+2021-08-25 18-00-13	A-------	587 764 	Sap05.PNG
+2021-08-25 18-03-06	A-------	321 147 	showcase.png
+2021-08-25 18-08-00	A-------	28 486 	Tarif_Deplace.PNG
+2021-08-25 18-00-23	A-------	52 170 	VousAssister.png
+2021-08-25 18-00-32	A-------	6 939 	VousAssister_100.png
+2021-08-25 18-00-38	A-------	51 943 	VousConseiller.png
+2021-08-25 18-00-44	A-------	50 673 	VousDepanner.png
+2021-08-25 18-00-55	A-------	46 211 	VousFormer.png
+2021-08-25 18-01-02	A-------	49 625 	VousInstaller.png
+----------------------------------------------------------------------------------------------------
+Dossier: "Images"          Nombre de fichiers: 40          Taille des fichiers: 22 444 225 
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Résumé - Dossiers: 296          Fichiers: 730          Taille des fichiers: 118 238 142  Byte(s)
