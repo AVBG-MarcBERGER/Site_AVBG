@@ -16,17 +16,17 @@
 
 # select maintenance
 ####################
-#public/
-#content/avantages/
-#content/bienvenue/
-#content/pages/
-#content/services/
-#travail/
-#themes/
+public/
+content/avantages/
+content/bienvenue/
+content/pages/
+content/services/
+travail/
+themes/
 
 # select Production
 ####################
-content/maintenance/
-public/
-travail/
-themes/
+#content/maintenance/
+#public/
+#travail/
+#themes/

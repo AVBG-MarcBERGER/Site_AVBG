@@ -105,7 +105,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
   url = "/#about"
 
-
 # -------------
 # Customization
 # -------------
