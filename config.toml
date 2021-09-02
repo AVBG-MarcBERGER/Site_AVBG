@@ -62,48 +62,17 @@ canonifyurls = true
 # ------------
 # Sidebar menu
 # ------------
-[[menu.main]]
-  weight = 1
-  identifier = "acceuil"
-  name = "Acceuil"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/acceuil"
-[[menu.main]]
-  weight = 2
-  identifier = "presentation"
-  name = "Qui suis-je ?"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
-  url = "/pages/presentation"
-[[menu.main]]
-  weight = 3
-  identifier = "services"
-  name = "Mes services"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-align-left \" aria-hidden=\"true\"></i>"
-  url = "/services"
-[[menu.main]]
-  weight = 4
-  identifier = "mesengagements"
-  name = "Mes engagements "
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
-  url = "/pages/mesengagements"
-[[menu.main]]
-  weight = 5
-  identifier = "avantages"
-  name = "Mes Aventages"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/avantages/"
-  [[menu.main]]
-  weight = 6
-  identifier = "mestarifs"
-  name = "Mes Tarifs "
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-euro-sign\" aria-hidden=\"true\"></i>"
-  url = "/pages/mestarifs"
-  [[menu.main]]
   weight = 9
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
   url = "/#about"
+  [[menu.main]]
+  weight = 8
+  identifier = "maintenance"
+  name = "Maintenance"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
+  url = "/maintenance/InfoMaintenance"
 
 # -------------
 # Customization
