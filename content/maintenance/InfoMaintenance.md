@@ -1,5 +1,5 @@
 ---
-title: "Site en cours de maintenance"
+title: "Ce site en cours de maintenance"
 thumbnailImagePosition: left
 thumbnailImage: /images/AVBG_02_110x110.jpg
 ##date: 2021-08-16
@@ -15,19 +15,23 @@ ShowdATE: false
 #type: page
 #menu: main
 ---
-## Toutes mes excuses.
-<!--more-->
 
+## Mon site est temporairement indisponible.{{< image classes="  left " src="images/panneau-de-danger-100.jpg" thumbnail="/images/panneau-de-danger-100.jpg"  >}} 
 
+{{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}} 
 
 Bonjour, 
 
-Je vous informe que mon  site est temporairement indisponible pour des opérations de maintenance.
+Je vous informe que je réalise actuellement des opérations de maintenance sur mon site.
 
-{{< image classes="  bottom  clear fig-70" src="images/AVBG-Logo-07.png" thumbnail="/images/AVBG-Logo-07.png"  >}}
+***
 
-Je fais au plus vite pour apporter les mises à jours et les modifications utiles.
+{{< image classes="  center  clear fig-100" src="images/AVBG-Logo-07.png" thumbnail="/images/AVBG-Logo-07.png"  >}}
 
-En attendant sa remise en service je vous pris de bien vouloir m'excuser de cette intéruption.
+***
 
-Marc BERGER 
+Je fais au plus vite pour lui apporter les mises à jours et les modifications utiles.
+
+En attendant sa remise en service, je vous pris de bien vouloir m'excuser et je vous remercie de votre compréhention.
+
+**Marc BERGER** [AVBG-Informatique]

@@ -64,7 +64,7 @@ canonifyurls = true
 # ------------
   weight = 9
   identifier = "about"
-  name = "About"
+  name = "AVBG-Informatique [Marc BERGER]"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
   url = "/#about"
   [[menu.main]]
@@ -152,7 +152,7 @@ canonifyurls = true
   coverImage = "images/cover.png"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
-  imageGallery = true
+  imageGallery = false
 
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   thumbnailImage = true
@@ -163,7 +163,7 @@ canonifyurls = true
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
-  autoThumbnailImage = true
+  autoThumbnailImage = false 
 
   # Your favicon path, default is "/favicon.png"
   favicon = "AVBG_02_110x110.jpg"
@@ -291,7 +291,7 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false
