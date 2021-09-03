@@ -30,8 +30,8 @@ Je vous informe que je réalise actuellement des opérations de maintenance sur 
 
 ***
 
-Je fais au plus vite pour lui apporter les mises à jours et les modifications utiles.
+Je fais au plus vite pour lui apporter les mises à jour et les modifications utiles.
 
-En attendant sa remise en service, je vous pris de bien vouloir m'excuser et je vous remercie de votre compréhention.
+En attendant sa remise en service, je vous prie de bien vouloir m'excuser et je vous remercie de votre compréhension.
 
 **Marc BERGER** [AVBG-Informatique]
