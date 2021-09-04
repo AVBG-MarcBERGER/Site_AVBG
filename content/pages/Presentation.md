@@ -1,7 +1,7 @@
 ---
 title: ""
 thumbnailImagePosition: left
-thumbnailImage: /images/AVBG_02_110x110.jpg
+thumbnailImage: /images/Logo_AVBG_110.jpg
 ##date: 2021-08-16
 #categories:
 #- tranquilpeak
@@ -18,22 +18,23 @@ ShowdATE: false
 ## Qui suis-je ?
 <!--more-->
 
-{{< image classes=" right  fig-25" src="images/Moi.jpg" thumbnail="/images/Moi.jpg"  >}}
+{{< image classes=" right  fig-25" src="images/Img_Moi.jpg" thumbnail="/images/Img_Moi.jpg"  >}}
+
+[![Retour arrière](/images/logo-retour-arriere_50.png)](/)
 
 Je m'appelle Marc BERGER.
 
-J'ai toujours eu, l’**informatique**, comme principal « hobby ». Je l'ai découvert  de manière autodidacte, petit à petit, durant de nombreuses années .
+J'ai toujours eu l’**informatique** comme principal « hobby ». Je l'ai découverte de manière autodidacte, petit à petit, durant de nombreuses années .
 
 Cette passion m'a poussé tout le long de ma vie professionnelle à choisir des postes fortement imprégnés d’informatique. 
 J’ai entre autre, pendant plus de 30 ans, travaillé en tant qu’ingénieur dans un grand groupe automobiles français.
 
-J'avais depuis un certain temps l'envie de revenir à des relations de proximité à taille humaine et d'apporter de manière très concrète mon aide à d'autres personnes.J'ai décidé dernierement de me mettre à mon compte en tant qu'auto entrepreneur.
 
 {{< image classes="fancybox right " src="/images/certificat.png" thumbnail="/images/logo-certificat.png" group="group:travel" thumbnail-width="100px" thumbnail-height="100px" title="Zoom Certificat" >}}
-J'ai proffité de cette reconvertion pour suivre des formations afin de compléter mes connaissances. Ces formations m'ont permis de me mettre à niveau et d'obtenir une certfication "Administrateur Windows 10".
+J'ai profité de cette reconversion pour suivre des formations afin de compléter mes connaissances. Ces formations m'ont permis de me mettre à niveau et d'obtenir une certification "Administrateur Windows 10".
 
-J'ai résumé cet état d'ésprit dans le nom de ma société 
+J'ai résumé cet état d'esprit dans le nom de ma société 
 
-{{< image classes="  bottom  clear fig-70" src="images/AVBG-Logo-07.png" thumbnail="/images/AVBG-Logo-07.png"  >}}
+{{< image classes="  bottom  clear fig-60" src="images/Logo_AVBG-Info_105.png" thumbnail="/images/Logo_AVBG-Info_105.png"  >}}
 
-autremant dit "Avez Vous Besoin d'être Guidé en Informatique ?" 
+autrement dit "**A**vez-**V**ous **B**esoin d'être **G**uidé en Informatique ?" 

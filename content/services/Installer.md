@@ -14,11 +14,11 @@ Showcategories: false
 weight: 2
 ---
 
-### je peux vous assister pour de nombreues tâche
+### je peux vous installer des matériels et/ou logiciels
 
 <!--more-->
 
-{{< image classes=" bottom fig-50" src="/images/pcMarcNew-2.png" thumbnail="/images/pcMarcNew-2.png"  >}}
+{{< image classes=" bottom fig-50" src="/images/Img_PC04.png" thumbnail="/images/Img_PC04.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
@@ -27,10 +27,9 @@ weight: 2
 - Mettre en place et configurer votre messagerie
 - Procéder à l’installation de logiciels divers
 - Mettre en route votre nouvel ordinateur
-- Procéder à l’installation d'utilitaires, de programmes system ou de pilotes
-- Mettre en place une protection logiciel pour votre ordinateur
-- Mettre en place et configurer votre Box et décodeur TV internet
+- Procéder à l’installation d'utilitaires, de systèmes d'exploitation ou de pilotes
+- Mettre en place un logiciel de protection pour votre ordinateur
 - Procéder à l’installation de périphériques externes
 - Procéder à la connexion et à la communication avec d'autres appareils
 - Mettre en place et configurer un réseau domestique
-- Mettre en place et configurer un routeur
+- ___...___

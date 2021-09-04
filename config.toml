@@ -53,7 +53,7 @@ canonifyurls = true
   gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/images/AVBG_02_110x110.jpg"
+  picture = "/images/Logo_AVBG_110.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -62,17 +62,48 @@ canonifyurls = true
 # ------------
 # Sidebar menu
 # ------------
+[[menu.main]]
+  weight = 1
+  identifier = "accueil"
+  name = "Accueil"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/accueil"
+[[menu.main]]
+  weight = 2
+  identifier = "presentation"
+  name = "Qui suis-je ?"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
+  url = "/pages/presentation"
+[[menu.main]]
+  weight = 3
+  identifier = "services"
+  name = "Mes services"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-align-left \" aria-hidden=\"true\"></i>"
+  url = "/services"
+[[menu.main]]
+  weight = 4
+  identifier = "mesengagements"
+  name = "Mes engagements "
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
+  url = "/pages/mesengagements"
+[[menu.main]]
+  weight = 5
+  identifier = "avantages"
+  name = "Mes Avantages"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/avantages/"
+  [[menu.main]]
+  weight = 6
+  identifier = "mestarifs"
+  name = "Mes Tarifs "
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-euro-sign\" aria-hidden=\"true\"></i>"
+  url = "/pages/mestarifs"
+  [[menu.main]]
   weight = 9
   identifier = "about"
-  name = "AVBG-Informatique [Marc BERGER]"
+  name = "A propos"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
   url = "/#about"
-  [[menu.main]]
-  weight = 8
-  identifier = "maintenance"
-  name = "Maintenance"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
-  url = "/maintenance/InfoMaintenance"
 
 # -------------
 # Customization
@@ -81,9 +112,9 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Hugo tranquilpeak theme demo"
-  site_logo = "/images/AVBG-Logo-07.png"
-  featured_image = "/images/SPA.png"
+  description = "Sit AVBG-Informatique basé sur Hugo theme tranquilpeak"
+  site_logo = "images/Logo_AVBG_110.jpg"
+  featured_image = "images/SPA.png"
   background_color_class = "bg-red"
   # ------------------
   # Syntax highlighter
@@ -152,7 +183,7 @@ canonifyurls = true
   coverImage = "images/cover.png"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
-  imageGallery = false
+  imageGallery = true
 
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   thumbnailImage = true
@@ -163,10 +194,10 @@ canonifyurls = true
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
-  autoThumbnailImage = false 
+  autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "AVBG_02_110x110.jpg"
+  favicon = "images/Logo_AVBG_110.jpg"
 
   # ------------------
   # External resources
@@ -256,20 +287,20 @@ canonifyurls = true
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
-    name = "Facebook"
-    icon = "fab fa-facebook-square"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+  #[[params.sharingOptions]]
+  #  name = "Facebook"
+  #  icon = "fab fa-facebook-square"
+  #  url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
-  [[params.sharingOptions]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    url = "https://twitter.com/intent/tweet?text=%s"
+  #[[params.sharingOptions]]
+  #  name = "Twitter"
+  #  icon = "fab fa-twitter"
+  #  url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fab fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
+  #[[params.sharingOptions]]
+  #  name = "Google+"
+  #  icon = "fab fa-google-plus"
+  #  url = "https://plus.google.com/share?url=%s"
 
   # -------------------
   # Integrated services
@@ -289,23 +320,23 @@ canonifyurls = true
   # --------------
   # Comment system
   # --------------
-  [params.comment]
-    [params.comment.disqus]
-      enable = false
-      shortname = "hugo-tranquilpeak-theme"
-    [params.comment.gitalk]
-      enable = false
-      # clientId =
-      # clientSecret =
-      # owner =
-      # repo =
-      # See all options: https://github.com/gitalk/gitalk#options
-      [params.comment.gitalk.options]
-        language = "fr"
-        perPage = 10
-        distractionFreeMode = false
-        enableHotKey = true
-        pagerDirection = "first"
+  #[params.comment]
+  #  [params.comment.disqus]
+  #    enable = true
+  #    shortname = "hugo-tranquilpeak-theme"
+  #  [params.comment.gitalk]
+  #    enable = false
+  #    # clientId =
+  #    # clientSecret =
+  #    # owner =
+  #    # repo =
+  #    # See all options: https://github.com/gitalk/gitalk#options
+  #    [params.comment.gitalk.options]
+  #      language = "fr"
+  #      perPage = 10
+  #      distractionFreeMode = false
+  #      enableHotKey = true
+  #      pagerDirection = "first"
 
   # --------------------
   # Header configuration

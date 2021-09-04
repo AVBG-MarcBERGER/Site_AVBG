@@ -16,7 +16,7 @@ Showcategories: false
 ### Franchise en base de TVA
 <!--more-->
 
-{{< image classes=" bottom fig-50" src="/images/TVA.jpg" thumbnail="/images/TVA.jpg"  >}}
+{{< image classes=" bottom fig-50" src="/images/Img_TVA.jpg" thumbnail="/images/Img_TVA.jpg"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
@@ -31,9 +31,9 @@ Dès qu’un bien de consommation ou un service nous est facturé, son prix tota
 La TVA est un impôt indirect : ce n’est pas l’État qui le prélève directement (comme il le fait par exemple avec l’impôt sur les revenus). Cette tâche est déléguée aux entreprises qui facturent la TVA. Celles-ci doivent ensuite la reverser à l’État par le biais de déclarations régulières.
 
 ### La TVA pour les auto-entrepreneurs
-Les auto-entrepreneurs peuvent bénéficier dans certaines conditions de la franchise en base de TVA. Ce qui les dispence de collecter cet impôt auprès de leur clients.
+Les auto-entrepreneurs peuvent bénéficier dans certaines conditions de la franchise en base de TVA. Ce qui les dispense de collecter cet impôt auprès de leur clients.
 
-Pour prétendre à cette franchise, le chiffre d’affaires annuel de l'entreprise ne doit pas dépasser des seuils fonction de la nature de ses activités.
+Pour prétendre à cette franchise, le chiffre d’affaires annuel de l'entreprise ne doit pas dépasser des seuils en fonction de la nature de ses activités.
 
 * Pour les artisans et les professions libérales en auto-entreprise :
 

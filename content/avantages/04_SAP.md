@@ -12,15 +12,15 @@ showSocial: false
 ShowdATE: false
 Showcategories: false
 ---
-
+### A revoir 
 ### Le Service à la personne
 <!--more-->
 
-{{< image classes=" bottom  fig-33" src="/images/Sap04.PNG" thumbnail="/images/Sap04.PNG"  >}}
+{{< image classes=" bottom  fig-33" src="/images/Img_Sap.png" thumbnail="/images/Img_Sap.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
-qu’est-ce que c’est ? Qui est concerné ? pour quelles activités ?
+Qu’est-ce que c’est ? Qui est concerné ? Pour quelles activités ?
 
 
 Concrètement, comment fonctionne la loi Borloo pour l'assistance informatique à domicile

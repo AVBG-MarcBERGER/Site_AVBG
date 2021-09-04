@@ -14,11 +14,11 @@ Showcategories: false
 weight: 4
 ---
 
-### je peux vous aprendre et vous former à l'informatique
+### je peux vous apprendre et vous former à l'informatique
 
 <!--more-->
 
-{{< image classes=" bottom fig-50" src="/images/pcMarcNew-2.png" thumbnail="/images/pcMarcNew-2.png"  >}}
+{{< image classes=" bottom fig-50" src="/images/Img_PC04.png" thumbnail="/images/Img_PC04.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
@@ -34,8 +34,6 @@ weight: 4
 - Vous permettre de maitriser la bureautique avec des cours approfondis
 - Vous apprendre à naviguer en sécurité sur internet
 - Vous apprendre à utiliser Internet
-- Vous expliquer comment être en sécurité sur les réseaux sociaux
-- Vous initier à la communication d'entreprise ou évènementielle
 - Vous initier aux logiciels de communication Visio/Chat
 - Vous apprendre comment protéger globalement votre ordinateur
 - Vous apprendre à utiliser votre ordinateur
