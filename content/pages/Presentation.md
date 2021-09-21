@@ -1,7 +1,7 @@
 ---
 title: ""
 thumbnailImagePosition: left
-thumbnailImage: /images/Logo_AVBG_110.jpg
+thumbnailImage: /images/Logo_main.png
 ##date: 2021-08-16
 #categories:
 #- tranquilpeak
@@ -18,7 +18,7 @@ ShowdATE: false
 ## Qui suis-je ?
 <!--more-->
 
-{{< image classes=" right  fig-25" src="images/Img_Moi.jpg" thumbnail="/images/Img_Moi.jpg"  >}}
+{{< image classes=" right  fig-25" src="images/Img_Marc.jpg" thumbnail="/images/Img_Marc.jpg"  >}}
 
 [![Retour arrière](/images/logo-retour-arriere_50.png)](/)
 
@@ -30,11 +30,11 @@ Cette passion m'a poussé tout le long de ma vie professionnelle à choisir des 
 J’ai entre autre, pendant plus de 30 ans, travaillé en tant qu’ingénieur dans un grand groupe automobiles français.
 
 
-{{< image classes="fancybox right " src="/images/certificat.png" thumbnail="/images/logo-certificat.png" group="group:travel" thumbnail-width="100px" thumbnail-height="100px" title="Zoom Certificat" >}}
+{{< image classes="fancybox right " src="/images/Img_certificat.png" thumbnail="/images/logo-certificat.png" group="group:travel" thumbnail-width="100px" thumbnail-height="100px" title="Zoom Certificat" >}}
 J'ai profité de cette reconversion pour suivre des formations afin de compléter mes connaissances. Ces formations m'ont permis de me mettre à niveau et d'obtenir une certification "Administrateur Windows 10".
 
 J'ai résumé cet état d'esprit dans le nom de ma société 
 
-{{< image classes="  bottom  clear fig-60" src="images/Logo_AVBG-Info_105.png" thumbnail="/images/Logo_AVBG-Info_105.png"  >}}
+{{< image classes="  bottom  clear fig-60" src="images/Logo_AVBG-Info.png" thumbnail="/images/Logo_AVBG-Info.png"  >}}
 
 autrement dit "**A**vez-**V**ous **B**esoin d'être **G**uidé en Informatique ?" 

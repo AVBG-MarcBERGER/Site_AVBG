@@ -1,9 +1,7 @@
 ---
 title: ""
-thumbnailImagePosition: left
-thumbnailImage: /images/VousInstaller_300.png
-thumbnail-width: 150px
-thumbnail-height: 150px
+thumbnailImagePosition: left 
+thumbnailImage: images/Logo_main.png
 tags:
 - tags
 showTags: false
@@ -14,11 +12,11 @@ Showcategories: false
 weight: 2
 ---
 
-### je peux vous installer des matériels et/ou logiciels
+[![je peux vous installer des matériels et/ou logiciels](/images/BtLong_installer_100.png)](/services/installer) 
 
 <!--more-->
 
-{{< image classes=" bottom fig-50" src="/images/Img_PC04.png" thumbnail="/images/Img_PC04.png"  >}}
+{{< image classes=" bottom fig-75" src="/images/Img_sevices_Installer_matériel_informatique.png" thumbnail="/images/Img_sevices_Installer_matériel_informatique.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 

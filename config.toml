@@ -45,15 +45,15 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "AVBG-Informatique [Marc BERGER]"
-  bio = "Assistant informatique aux particuliers"
-  job = "AVBG.Marc.BERGER @Gmail.com"
-  location = "Sartrouville France"
+  name = "AVBG-Informatique"
+  bio = "Marc BERGER Assistant informatique aux particuliers"
+  job = "@mail:Contact@AVBG-informatique.fr"
+  location = "Tel:06.10.30.74.84 Sartrouville France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/images/Logo_AVBG_110.jpg"
+  picture = "/images/Logo_AVBG.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -112,9 +112,9 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Sit AVBG-Informatique basé sur Hugo theme tranquilpeak"
-  site_logo = "images/Logo_AVBG_110.jpg"
-  featured_image = "images/SPA.png"
+  description = "Site AVBG-Informatique basé sur Hugo theme tranquilpeak"
+  site_logo = "images/Logo_AVBG.png"
+  featured_image = "images/Logo_AVBG-info.png"
   background_color_class = "bg-red"
   # ------------------
   # Syntax highlighter
@@ -197,7 +197,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "images/Logo_AVBG_110.jpg"
+  favicon = "images/Logo_AVBG.png"
 
   # ------------------
   # External resources
@@ -344,8 +344,8 @@ canonifyurls = true
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
   # By default, author's gravatar or author's picture is displayed.
-  #  url: /#search
-  #  icon: search
+  #  url = "/#search"
+  # icon = search
   #  class: st-search-show-outputs
   [params.header.rightLink]
     class = ""

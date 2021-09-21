@@ -1,7 +1,7 @@
 ---
 title: ""
 thumbnailImagePosition: left
-thumbnailImage: /images/Logo_CESU_300.png
+thumbnailImage: /images/Logo_avantage_CESU_300.png
 thumbnail-width: 400px
 thumbnail-height: 400px
 tags:
@@ -16,7 +16,7 @@ Showcategories: false
 ### Le CESU (Chèque Emploi Service Universel)
 <!--more-->
 
-{{< image classes=" bottom fig-50" src="/images/Img_Cesu.png" thumbnail="/images/Img_Cesu.png">}}
+{{< image classes=" bottom fig-33" src="/images/Img_avantage_Cesu.png" thumbnail="/images/Img_avantage_Cesu.png">}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg">}}
 

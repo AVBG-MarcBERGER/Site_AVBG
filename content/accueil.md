@@ -15,24 +15,22 @@ showActions: false
 coverSize: full
 summary: "Test sommaire"
 ---
-{{< image classes=" left fig-332" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
-{{< image classes=" clear bottom fig-50" src="/images/Img_PC03.png" thumbnail="/images/Img_PC03.png"  >}}
+
+{{< image classes=" clear bottom fig-75" src="/images/Img_PC_Malade.png" thumbnail="/images/Img_PC_Malade.png"  >}}
 
 
 
-**L'informatique et vous ça fait deux, mais vous voulez que ça change.**
+- **L'informatique et vous ça fait deux, mais vous voulez que ça change.**
 
-**Vous avez un nouvel ordinateur et vous ne savez pas par où commencer.**
+- **Vous avez un nouvel ordinateur et vous ne savez pas par où commencer.**
 
-**Vous n'avez pas de temps à consacrer à la résolution d'un petit problème.**
+- **Vous n'avez pas de temps à consacrer à la résolution d'un petit problème.**
 
-**Vous avez un gros souci et vous ne savez pas le régler.**
+- **Vous avez un gros souci et vous ne savez pas comment le régler.**
 
+{{< image classes=" right   fig-75" src="images/Logo_AVBG-Info.png" thumbnail="/images/Logo_AVBG-Info.png"  >}}
+## _N'hésitez pas à me contacter_
+ 
+**Dès après maintenant, parcourez mon site pour en découvrir plus sur moi et sur les services que je peux vous apporter.**
 
-#### _N'hésitez pas à contacter_ {{< image classes=" right bottom  fig-50" src="images/Logo_AVBG-Info_105.png" thumbnail="/images/Logo_AVBG-Info_105.png"  >}}
-
-
-
-{{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
-
-**Pour en savoir plus sur moi et sur les services que je peux vous proposer, parcourez ce site.**
+**J'espère que vous allez me soliciter très prochenement afin de vous aider en informatique, alors je vous dis à très vite.**

@@ -1,9 +1,7 @@
 ---
 title: ""
-thumbnailImagePosition: left
-thumbnailImage: /images/VousDepanner_300.png
-thumbnail-width: 150px
-thumbnail-height: 150px
+thumbnailImagePosition: left 
+thumbnailImage: images/Logo_main.png
 tags:
 - tags
 showTags: false
@@ -14,11 +12,11 @@ Showcategories: false
 weight: 5
 ---
 
-### Je peux dépanner vos équipements informatiques
+[![Je peux dépanner vos équipements informatiques](/images/BtLong_depanner_100.png)](/services/depanner) 
 
 <!--more-->
 
-{{< image classes=" bottom fig-50" src="/images/Img_PC04.png" thumbnail="/images/Img_PC04.png"  >}}
+{{< image classes=" bottom fig-75" src="/images/Img_sevices_Depanner_materiel_informatique.png" thumbnail="/images/Img_sevices_Depanner_materiel_informatique.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
