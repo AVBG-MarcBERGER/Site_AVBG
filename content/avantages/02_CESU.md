@@ -12,11 +12,10 @@ showSocial: false
 ShowdATE: false
 Showcategories: false
 ---
-
-### Le CESU (Chèque Emploi Service Universel)
+## [Le CESU (Chèque Emploi Service Universel)](/avantages/02_cesu)
 <!--more-->
 
-{{< image classes=" bottom fig-33" src="/images/Img_avantage_Cesu.png" thumbnail="/images/Img_avantage_Cesu.png">}}
+{{< image classes=" bottom fig-50" src="/images/Img_avantage_Cesu.png" thumbnail="/images/Img_avantage_Cesu.png">}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg">}}
 

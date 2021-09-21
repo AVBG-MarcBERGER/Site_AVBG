@@ -31,6 +31,6 @@ summary: "Test sommaire"
 {{< image classes=" right   fig-75" src="images/Logo_AVBG-Info.png" thumbnail="/images/Logo_AVBG-Info.png"  >}}
 ## _N'hésitez pas à me contacter_
  
-**Dès après maintenant, parcourez mon site pour en découvrir plus sur moi et sur les services que je peux vous apporter.**
+**Dès maintenant, parcourez mon site pour en découvrir plus sur moi et sur les services que je peux vous apporter.**
 
-**J'espère que vous allez me soliciter très prochenement afin de vous aider en informatique, alors je vous dis à très vite.**
+**J'espère que vous allez me solliciter très prochainement afin de vous aider en informatique, alors je vous dis à très vite.**

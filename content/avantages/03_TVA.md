@@ -12,11 +12,10 @@ showSocial: false
 ShowdATE: false
 Showcategories: false
 ---
-
-### La franchise en base de TVA
+## [La franchise en base de TVA)](/avantages/03_tva)
 <!--more-->
 
-{{< image classes=" bottom fig-33" src="/images/Img_avantage_TVA.jpg" thumbnail="/images/Img_avantage_TVA.jpg"  >}}
+{{< image classes=" bottom fig-50" src="/images/Img_avantage_TVA.jpg" thumbnail="/images/Img_avantage_TVA.jpg"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 

@@ -18,7 +18,7 @@ weight: 1
 
 <!--more-->
 
-{{< image classes=" left fig-50" src="/images/Img_sevices_Conseiller_matériel_informatique.png" thumbnail="/images/Img_sevices_Conseiller_matériel_informatique.png"  >}}
+{{< image classes=" left fig-75" src="/images/Img_sevices_Conseiller_matériel_informatique.png" thumbnail="/images/Img_sevices_Conseiller_matériel_informatique.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear left fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 

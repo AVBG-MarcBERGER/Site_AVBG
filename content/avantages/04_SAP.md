@@ -12,10 +12,10 @@ showSocial: false
 ShowdATE: false
 Showcategories: false
 ---
-### Le Service à la personne (SAP)
+## [Le Service à la personne (SAP))](/avantages/04_sap)
 <!--more-->
 
-{{< image classes=" bottom  fig-33" src="/images/Img_avantage_Sap.png" thumbnail="/images/Img_avantage_Sap.png"  >}}
+{{< image classes=" bottom  fig-50" src="/images/Img_avantage_Sap.png" thumbnail="/images/Img_avantage_Sap.png"  >}}
 [![Retour arrière](/images/logo-retour-arriere_50.png)](../)
 {{< image classes="clear bottom fig-50" src="/images/Blanc.jpg" thumbnail="/images/Blanc.jpg"  >}}
 
